@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "gozdzikowa"
+version = "0.1.0"
+description = ""
+authors = ["Jan Slowik <jas.slowik@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+requests = "^2.27.1"
+networkx = "^2.6.3"
+pandas = "^1.3.5"
+matplotlib = "^3.5.1"
+seaborn = "^0.11.2"
+notebook = "^6.4.7"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
