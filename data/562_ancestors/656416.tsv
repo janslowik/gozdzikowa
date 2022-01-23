@@ -1,0 +1,12 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+A0A0K9TCM3	A0A0K9TCM3_ECOLX	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87) (UDP-(beta-L-threo-pentapyranosyl-4''-ulose diphosphate) aminotransferase) (UDP-Ara4O aminotransferase) (UDP-4-amino-4-deoxy-L-arabinose aminotransferase)	arnB	unreviewed
+A0A0K9TDQ0	A0A0K9TDQ0_ECOLX	Multidrug efflux pump accessory protein AcrZ (AcrAB-TolC multidrug efflux pump accessory protein AcrZ) (Acridine resistance protein Z)	acrZ	unreviewed
+A0A0K9TF27	A0A0K9TF27_ECOLX	Multidrug resistance protein MdtL	mdtL	unreviewed
+A0A0K9TFL4	A0A0K9TFL4_ECOLX	ABC transporter		unreviewed
+A0A0K9TE50	A0A0K9TE50_ECOLX	DD-transpeptidase (EC 2.4.1.129) (EC 3.4.16.4) (Penicillin-binding protein 1A) (Penicillin-insensitive transglycosylase) (Penicillin-sensitive transpeptidase) (Peptidoglycan TGase)		unreviewed
+A0A0K9T8T1	A0A0K9T8T1_ECOLX	Multidrug resistance protein MdtG	mdtG	unreviewed
+A0A0K9TBU9	A0A0K9TBU9_ECOLX	Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)	arnD	unreviewed
+A0A0K9THN6	A0A0K9THN6_ECOLX	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	unreviewed
+A0A0K9TE11	A0A0K9TE11_ECOLX	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53) (Undecaprenyl-phosphate Ara4FN transferase) (Ara4FN transferase)	arnC	unreviewed
+A0A0K9TC80	A0A0K9TC80_ECOLX	Bifunctional polymyxin resistance protein ArnA [Includes: UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13) (ArnAFT) (UDP-L-Ara4N formyltransferase); UDP-glucuronic acid oxidase, UDP-4-keto-hexauronic acid decarboxylating (EC 1.1.1.305) (ArnADH) (UDP-GlcUA decarboxylase) (UDP-glucuronic acid dehydrogenase)]	arnA	unreviewed
+A0A0K9TJI0	A0A0K9TJI0_ECOLX	Beta-lactamase (EC 3.5.2.6)		unreviewed

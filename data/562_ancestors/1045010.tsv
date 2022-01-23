@@ -1,0 +1,16 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+A0A7U8RKY2	A0A7U8RKY2_ECOLX	Tetracycline efflux MFS transporter Tet(B)	tet(B)	unreviewed
+A0A7U8NNE8	A0A7U8NNE8_ECOLX	Tetracycline resistance transcriptional repressor TetR(B)	tetR(B)	unreviewed
+A0A7U8RLA9	A0A7U8RLA9_ECOLX	Beta-lactamase (EC 3.5.2.6)	blaEC	unreviewed
+A0A3S5I2R4	A0A3S5I2R4_ECOLX	Aminoglycoside (3'') (9) adenylyltransferase (EC 2.7.7.47)	aadA1	unreviewed
+A0A3T0VC06	A0A3T0VC06_ECOLX	Aminoglycoside 3'-phosphotransferase (EC 2.7.1.95)	neoR	unreviewed
+A0A3T0VBL3	A0A3T0VBL3_ECOLX	Aminoglycoside 3'-phosphotransferase (EC 2.7.1.95)	strA	unreviewed
+A0A3T0VBZ6	A0A3T0VBZ6_ECOLX	TetR	tetR	unreviewed
+A0A3S5I2U9	A0A3S5I2U9_ECOLX	TetA	tetA	unreviewed
+A0A7U8RGE1	A0A7U8RGE1_ECOLX	Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)	arnD	unreviewed
+A0A3S5I2V3	A0A3S5I2V3_ECOLX	Aminoglycoside (3'') (9) adenylyltransferase (EC 2.7.7.47)	aadA2	unreviewed
+A0A1Z3UZG0	A0A1Z3UZG0_ECOLX	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	bacA	unreviewed
+A0A7U8REE3	A0A7U8REE3_ECOLX	Multiple antibiotic resistance protein MarB	marB	unreviewed
+A0A770LTZ9	A0A770LTZ9_ECOLX	Multiple antibiotic resistance transcriptional regulator MarR	marR	unreviewed
+A0A1Z3UT73	A0A1Z3UT73_ECOLX	Multidrug efflux pump accessory protein AcrZ (AcrAB-TolC multidrug efflux pump accessory protein AcrZ) (Acridine resistance protein Z)	acrZ	unreviewed
+A0A7U8NJE1	A0A7U8NJE1_ECOLX	Multidrug resistance protein MdtG	mdtG	unreviewed

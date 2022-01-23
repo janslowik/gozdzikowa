@@ -1,0 +1,29 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+P0A9U4	YBIT_ECOL6	Probable ATP-binding protein YbiT	ybiT	reviewed
+A0A0H2VBH0	YHES_ECOL6	Probable ATP-binding protein YheS	yheS	reviewed
+Q8FFM2	ARNC_ECOL6	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53) (Undecaprenyl-phosphate Ara4FN transferase) (Ara4FN transferase)	arnC	reviewed
+P0AAX0	ACRZ_ECOL6	Multidrug efflux pump accessory protein AcrZ (AcrAB-TolC multidrug efflux pump accessory protein AcrZ) (Acridine resistance protein Z)	acrZ	reviewed
+P0A3B1	BIPA_ECOL6	50S ribosomal subunit assembly factor BipA (EC 3.6.5.-) (GTP-binding protein BipA)	bipA	reviewed
+P0A6N2	EFTU_ECOL6	Elongation factor Tu (EF-Tu) (P-43)	tufA; tufB	reviewed
+Q8FFM3	ARNB_ECOL6	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87) (UDP-(beta-L-threo-pentapyranosyl-4''-ulose diphosphate) aminotransferase) (UDP-Ara4O aminotransferase) (UDP-4-amino-4-deoxy-L-arabinose aminotransferase)	arnB	reviewed
+A0A0H2VFI8	ETTA_ECOL6	Energy-dependent translational throttle protein EttA (EC 3.6.1.-) (Translational regulatory factor EttA)	ettA	reviewed
+Q8FFM0	ARND_ECOL6	Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)	arnD	reviewed
+Q8FFM1	ARNA_ECOL6	Bifunctional polymyxin resistance protein ArnA [Includes: UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13) (ArnAFT) (UDP-L-Ara4N formyltransferase); UDP-glucuronic acid oxidase, UDP-4-keto-hexauronic acid decarboxylating (EC 1.1.1.305) (ArnADH) (UDP-GlcUA decarboxylase) (UDP-glucuronic acid dehydrogenase)]	arnA	reviewed
+Q8FAX1	MDTN_ECOL6	Multidrug resistance protein MdtN	mdtN	reviewed
+Q8FAX2	MDTO_ECOL6	Multidrug resistance protein MdtO	mdtO	reviewed
+Q8CVH8	MDTP_ECOL6	Multidrug resistance outer membrane protein MdtP	mdtP	reviewed
+P0AEY9	MDFA_ECOL6	Multidrug transporter MdfA (Chloramphenicol resistance pump Cmr)	mdfA	reviewed
+Q8CVL1	MDTE_ECOL6	Multidrug resistance protein MdtE	mdtE	reviewed
+Q8FFV6	MDTQ_ECOL6	Multidrug resistance outer membrane protein MdtQ	mdtQ	reviewed
+Q8FCI8	MDTF_ECOL6	Multidrug resistance protein MdtF	mdtF	reviewed
+Q8FIR9	MDTG_ECOL6	Multidrug resistance protein MdtG	mdtG	reviewed
+P69368	MDTH_ECOL6	Multidrug resistance protein MdtH	mdtH	reviewed
+Q8FBV0	MDTL_ECOL6	Multidrug resistance protein MdtL	mdtL	reviewed
+P67386	UPPP_ECOL6	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	reviewed
+Q8CVW1	OMPC_ECOL6	Outer membrane porin C (Outer membrane protein 1B) (Outer membrane protein C) (Porin OmpC)	ompC	reviewed
+A0A0H2VDE7	A0A0H2VDE7_ECOL6	Beta-lactamase (EC 3.5.2.6)	ampC	unreviewed
+A0A0H2V8D3	A0A0H2V8D3_ECOL6	Beta-lactamase (EC 3.5.2.6)		unreviewed
+A0A0H2V7G9	A0A0H2V7G9_ECOL6	Multiple antibiotic resistance protein marA	marA	unreviewed
+A0A0H2VBJ1	A0A0H2VBJ1_ECOL6	DD-transpeptidase (EC 2.4.1.129) (EC 3.4.16.4) (Penicillin-binding protein 1A) (Penicillin-insensitive transglycosylase) (Penicillin-sensitive transpeptidase) (Peptidoglycan TGase)	mrcA	unreviewed
+A0A0H2V8P5	A0A0H2V8P5_ECOL6	Multiple antibiotic resistance protein marB	marB	unreviewed
+A0A0H2V9P4	A0A0H2V9P4_ECOL6	Multiple antibiotic resistance protein marR	marR	unreviewed

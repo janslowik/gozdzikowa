@@ -1,0 +1,13 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+E9XKY6	E9XKY6_ECOLX	Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)	arnD	unreviewed
+E9XGL6	E9XGL6_ECOLX	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	unreviewed
+E9XS73	E9XS73_ECOLX	Multidrug resistance protein MdtL	mdtL	unreviewed
+E9XKY7	E9XKY7_ECOLX	Bifunctional polymyxin resistance protein ArnA [Includes: UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13) (ArnAFT) (UDP-L-Ara4N formyltransferase); UDP-glucuronic acid oxidase, UDP-4-keto-hexauronic acid decarboxylating (EC 1.1.1.305) (ArnADH) (UDP-GlcUA decarboxylase) (UDP-glucuronic acid dehydrogenase)]	arnA	unreviewed
+E9XNQ3	E9XNQ3_ECOLX	Multidrug efflux pump accessory protein AcrZ (AcrAB-TolC multidrug efflux pump accessory protein AcrZ) (Acridine resistance protein Z)	acrZ	unreviewed
+E9XMQ4	E9XMQ4_ECOLX	Multidrug resistance protein MdtH	mdtH	unreviewed
+E9XRN3	E9XRN3_ECOLX	Beta-lactamase (EC 3.5.2.6)		unreviewed
+E9XTC4	E9XTC4_ECOLX	DD-transpeptidase (EC 2.4.1.129) (EC 3.4.16.4) (Penicillin-binding protein 1A) (Penicillin-insensitive transglycosylase) (Penicillin-sensitive transpeptidase) (Peptidoglycan TGase)		unreviewed
+E9XN76	E9XN76_ECOLX	ABC transporter		unreviewed
+E9XMR5	E9XMR5_ECOLX	Multidrug resistance protein MdtG	mdtG	unreviewed
+E9XKY9	E9XKY9_ECOLX	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87) (UDP-(beta-L-threo-pentapyranosyl-4''-ulose diphosphate) aminotransferase) (UDP-Ara4O aminotransferase) (UDP-4-amino-4-deoxy-L-arabinose aminotransferase)	arnB	unreviewed
+E9XKY8	E9XKY8_ECOLX	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53) (Undecaprenyl-phosphate Ara4FN transferase) (Ara4FN transferase)	arnC	unreviewed

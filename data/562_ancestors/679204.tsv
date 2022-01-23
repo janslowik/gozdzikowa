@@ -1,0 +1,21 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+E1IQU2	E1IQU2_ECOLX	ABC transporter, ATP-binding protein		unreviewed
+E1IPS8	E1IPS8_ECOLX	Multidrug resistance protein MdtG	mdtG	unreviewed
+E1IZ98	E1IZ98_ECOLX	Transporter, major facilitator family protein (Fragment)		unreviewed
+E1IUU8	E1IUU8_ECOLX	Multiple antibiotic resistance protein MarA	marA	unreviewed
+E1IJR8	E1IJR8_ECOLX	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87) (UDP-(beta-L-threo-pentapyranosyl-4''-ulose diphosphate) aminotransferase) (UDP-Ara4O aminotransferase) (UDP-4-amino-4-deoxy-L-arabinose aminotransferase)	arnB	unreviewed
+E1INY3	E1INY3_ECOLX	DD-transpeptidase (EC 2.4.1.129) (EC 3.4.16.4) (Penicillin-binding protein 1A) (Penicillin-insensitive transglycosylase) (Penicillin-sensitive transpeptidase) (Peptidoglycan TGase)		unreviewed
+E1IJR9	E1IJR9_ECOLX	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53) (Undecaprenyl-phosphate Ara4FN transferase) (Ara4FN transferase)	arnC	unreviewed
+E1IYI4	E1IYI4_ECOLX	Multidrug resistance protein MdtH	mdtH	unreviewed
+E1IS06	E1IS06_ECOLX	Multidrug resistance protein MdtL	mdtL	unreviewed
+E1IZA3	E1IZA3_ECOLX	Chloramphenicol acetyltransferase (EC 2.3.1.28)		unreviewed
+E1IJS0	E1IJS0_ECOLX	Bifunctional polymyxin resistance protein ArnA [Includes: UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13) (ArnAFT) (UDP-L-Ara4N formyltransferase); UDP-glucuronic acid oxidase, UDP-4-keto-hexauronic acid decarboxylating (EC 1.1.1.305) (ArnADH) (UDP-GlcUA decarboxylase) (UDP-glucuronic acid dehydrogenase)]	arnA	unreviewed
+E1IZA7	E1IZA7_ECOLX	Transcriptional regulator, TetR family (Fragment)		unreviewed
+E1IZG0	E1IZG0_ECOLX	Beta-lactamase (EC 3.5.2.6) (Fragment)		unreviewed
+E1IVG5	E1IVG5_ECOLX	Beta-lactamase (EC 3.5.2.6)		unreviewed
+E1IKZ7	E1IKZ7_ECOLX	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	unreviewed
+E1IUU7	E1IUU7_ECOLX	Putative multiple antibiotic resistance protein MarB		unreviewed
+E1IVS4	E1IVS4_ECOLX	Multidrug efflux pump accessory protein AcrZ (AcrAB-TolC multidrug efflux pump accessory protein AcrZ) (Acridine resistance protein Z)	acrZ	unreviewed
+E1IZ63	E1IZ63_ECOLX	Aminoglycoside 3'-phosphotransferase (EC 2.7.1.95) (Fragment)		unreviewed
+E1IJS1	E1IJS1_ECOLX	Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)	arnD	unreviewed
+E1IUU9	E1IUU9_ECOLX	Multiple antibiotic resistance protein MarR	marR	unreviewed

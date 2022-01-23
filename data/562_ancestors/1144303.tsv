@@ -1,0 +1,5 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+A0A4D6PGN6	A0A4D6PGN6_ECOLX	Aminoglycoside 3'-phosphotransferase (EC 2.7.1.95)	aph(3')-II	unreviewed
+A0A4D6PFE8	A0A4D6PFE8_ECOLX	Beta-lactamase (EC 3.5.2.6)	blaFOX-5	unreviewed
+A0A4D6PHW3	A0A4D6PHW3_ECOLX	Aminoglycoside (3'') (9) adenylyltransferase (EC 2.7.7.47)	aadA2	unreviewed
+A0A4D6PGE8	A0A4D6PGE8_ECOLX	Beta-lactamase (EC 3.5.2.6)	blaCARB-2	unreviewed

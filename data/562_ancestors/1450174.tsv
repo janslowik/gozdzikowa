@@ -1,0 +1,4 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+A0A140JYS9	A0A140JYS9_ECOLX	Beta-lactamase (EC 3.5.2.6)	blaTEM-1	unreviewed
+A0A140JYT5	A0A140JYT5_ECOLX	Tetracycline resistance protein	tetA	unreviewed
+A0A140JYT6	A0A140JYT6_ECOLX	Tetracycline repressor protein TetR	tetR	unreviewed

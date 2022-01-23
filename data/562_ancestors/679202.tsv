@@ -1,0 +1,24 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+E6BTM8	E6BTM8_ECOLX	Transcriptional regulator, TetR family		unreviewed
+E6BKJ8	E6BKJ8_ECOLX	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87) (UDP-(beta-L-threo-pentapyranosyl-4''-ulose diphosphate) aminotransferase) (UDP-Ara4O aminotransferase) (UDP-4-amino-4-deoxy-L-arabinose aminotransferase)	arnB	unreviewed
+E6BIE9	E6BIE9_ECOLX	DD-transpeptidase (EC 2.4.1.129) (EC 3.4.16.4) (Penicillin-binding protein 1A) (Penicillin-insensitive transglycosylase) (Penicillin-sensitive transpeptidase) (Peptidoglycan TGase)		unreviewed
+E6BMD8	E6BMD8_ECOLX	Multidrug resistance protein MdtL	mdtL	unreviewed
+E6BKK0	E6BKK0_ECOLX	Bifunctional polymyxin resistance protein ArnA [Includes: UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13) (ArnAFT) (UDP-L-Ara4N formyltransferase); UDP-glucuronic acid oxidase, UDP-4-keto-hexauronic acid decarboxylating (EC 1.1.1.305) (ArnADH) (UDP-GlcUA decarboxylase) (UDP-glucuronic acid dehydrogenase)]	arnA	unreviewed
+E6BS50	E6BS50_ECOLX	Aminoglycoside (3'') (9) adenylyltransferase (EC 2.7.7.47)		unreviewed
+E6BTM7	E6BTM7_ECOLX	Transporter, major facilitator family protein		unreviewed
+E6BSI0	E6BSI0_ECOLX	ABC transporter, ATP-binding protein		unreviewed
+E6BU25	E6BU25_ECOLX	Beta-lactamase (EC 3.5.2.6)		unreviewed
+E6BCN6	E6BCN6_ECOLX	ABC transporter, ATP-binding protein		unreviewed
+E6BPH5	E6BPH5_ECOLX	Multidrug resistance protein MdtH	mdtH	unreviewed
+E6BPG2	E6BPG2_ECOLX	Multidrug resistance protein MdtG	mdtG	unreviewed
+E6BPB3	E6BPB3_ECOLX	Multiple antibiotic resistance protein MarA	marA	unreviewed
+E6BPB4	E6BPB4_ECOLX	Putative multiple antibiotic resistance protein MarB		unreviewed
+E6BDA1	E6BDA1_ECOLX	Multidrug efflux pump accessory protein AcrZ (AcrAB-TolC multidrug efflux pump accessory protein AcrZ) (Acridine resistance protein Z)	acrZ	unreviewed
+E6BU88	E6BU88_ECOLX	Aminoglycoside 3'-phosphotransferase (EC 2.7.1.95)		unreviewed
+E6BTW1	E6BTW1_ECOLX	Aminoglycoside/hydroxyurea antibiotic resistance kinase		unreviewed
+E6BF97	E6BF97_ECOLX	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	unreviewed
+E6BTW2	E6BTW2_ECOLX	Aminoglycoside 3'-phosphotransferase (EC 2.7.1.95)		unreviewed
+E6BKK1	E6BKK1_ECOLX	Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)	arnD	unreviewed
+E6BJJ0	E6BJJ0_ECOLX	Beta-lactamase (EC 3.5.2.6)		unreviewed
+E6BKJ9	E6BKJ9_ECOLX	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53) (Undecaprenyl-phosphate Ara4FN transferase) (Ara4FN transferase)	arnC	unreviewed
+E6BPB2	E6BPB2_ECOLX	Multiple antibiotic resistance protein MarR	marR	unreviewed

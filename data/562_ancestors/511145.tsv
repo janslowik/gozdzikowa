@@ -1,0 +1,5 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+A0A4D6FXD9	A0A4D6FXD9_ECOLI	Beta-lactamase (EC 3.5.2.6)	ampR	unreviewed
+A0A4D6FVV9	A0A4D6FVV9_ECOLI	Aminoglycoside 3'-phosphotransferase (EC 2.7.1.95)	kanR	unreviewed
+A0A223DQY7	A0A223DQY7_ECOLI	Aminoglycoside 3'-phosphotransferase (EC 2.7.1.95)	aph-III	unreviewed
+A0A4D6FXC7	A0A4D6FXC7_ECOLI	TetR	tetR	unreviewed

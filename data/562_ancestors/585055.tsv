@@ -1,0 +1,15 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+B7LGZ1	UPPP_ECO55	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	reviewed
+B7LAS1	ARND_ECO55	Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)	arnD	reviewed
+B7LAR9	ARNC_ECO55	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53) (Undecaprenyl-phosphate Ara4FN transferase) (Ara4FN transferase)	arnC	reviewed
+B7LAS0	ARNA_ECO55	Bifunctional polymyxin resistance protein ArnA [Includes: UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13) (ArnAFT) (UDP-L-Ara4N formyltransferase); UDP-glucuronic acid oxidase, UDP-4-keto-hexauronic acid decarboxylating (EC 1.1.1.305) (ArnADH) (UDP-GlcUA decarboxylase) (UDP-glucuronic acid dehydrogenase)]	arnA	reviewed
+B7LAR8	ARNB_ECO55	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87) (UDP-(beta-L-threo-pentapyranosyl-4''-ulose diphosphate) aminotransferase) (UDP-Ara4O aminotransferase) (UDP-4-amino-4-deoxy-L-arabinose aminotransferase)	arnB	reviewed
+B7L855	MDTL_ECO55	Multidrug resistance protein MdtL	mdtL	reviewed
+B7LFG4	MDTG_ECO55	Multidrug resistance protein MdtG	mdtG	reviewed
+B7LFZ9	MDTH_ECO55	Multidrug resistance protein MdtH	mdtH	reviewed
+B7LD05	B7LD05_ECO55	Tetracycline repressor protein class B from transposon Tn10		unreviewed
+B7LAG4	B7LAG4_ECO55	Multidrug efflux pump accessory protein AcrZ (AcrAB-TolC multidrug efflux pump accessory protein AcrZ) (Acridine resistance protein Z)	ybhT	unreviewed
+B7L4S0	B7L4S0_ECO55	DD-transpeptidase (EC 2.4.1.129) (EC 3.4.16.4) (Penicillin-binding protein 1A) (Penicillin-insensitive transglycosylase) (Penicillin-sensitive transpeptidase) (Peptidoglycan TGase)	mrcA	unreviewed
+B7LD10	B7LD10_ECO55	Tetracycline resistance protein, class B (TETA(B) ) (Metal-tetracycline/H(+) antiporter)		unreviewed
+B7LC06	B7LC06_ECO55	Beta-lactamase (EC 3.5.2.6)	ampC	unreviewed
+B7LD72	B7LD72_ECO55	MacB protein	macB	unreviewed

@@ -1,0 +1,25 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+V0VHY5	V0VHY5_ECOLX	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53) (Undecaprenyl-phosphate Ara4FN transferase) (Ara4FN transferase)	arnC	unreviewed
+V0W3N6	V0W3N6_ECOLX	Multidrug resistance protein MdtH	mdtH	unreviewed
+V0VBK7	V0VBK7_ECOLX	Multidrug resistance protein MdtG	mdtG	unreviewed
+V0V7F7	V0V7F7_ECOLX	Macrolide export ATP-binding/permease protein MacB		unreviewed
+V0V7H2	V0V7H2_ECOLX	Multiple antibiotic resistance protein MarA		unreviewed
+V0VQY7	V0VQY7_ECOLX	Putative macrolide export ATP-binding/permease protein MacB		unreviewed
+V0VAG1	V0VAG1_ECOLX	Putative multiple antibiotic resistance protein MarB		unreviewed
+V0WBQ2	V0WBQ2_ECOLX	Transcriptional regulator, TetR family		unreviewed
+V0V7Q3	V0V7Q3_ECOLX	Aminoglycoside (3'') (9) adenylyltransferase (EC 2.7.7.47)		unreviewed
+V0VGU3	V0VGU3_ECOLX	Beta-lactamase (EC 3.5.2.6)		unreviewed
+V0VJC2	V0VJC2_ECOLX	DD-transpeptidase (EC 2.4.1.129) (EC 3.4.16.4) (Penicillin-binding protein 1A) (Penicillin-insensitive transglycosylase) (Penicillin-sensitive transpeptidase) (Peptidoglycan TGase)		unreviewed
+V0VJI2	V0VJI2_ECOLX	Transporter, major facilitator family protein		unreviewed
+V0UR06	V0UR06_ECOLX	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87) (UDP-(beta-L-threo-pentapyranosyl-4''-ulose diphosphate) aminotransferase) (UDP-Ara4O aminotransferase) (UDP-4-amino-4-deoxy-L-arabinose aminotransferase)	arnB	unreviewed
+V0VS01	V0VS01_ECOLX	Aminoglycoside/hydroxyurea antibiotic resistance kinase		unreviewed
+V0VR89	V0VR89_ECOLX	Aminoglycoside 3'-phosphotransferase (EC 2.7.1.95)		unreviewed
+V0VM34	V0VM34_ECOLX	Beta-lactamase (EC 3.5.2.6)		unreviewed
+V0V495	V0V495_ECOLX	Multiple antibiotic resistance protein MarR		unreviewed
+V0UXA9	V0UXA9_ECOLX	Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)	arnD	unreviewed
+V0V470	V0V470_ECOLX	Multidrug efflux pump accessory protein AcrZ (AcrAB-TolC multidrug efflux pump accessory protein AcrZ) (Acridine resistance protein Z)	acrZ	unreviewed
+V0UY29	V0UY29_ECOLX	Bifunctional polymyxin resistance protein ArnA [Includes: UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13) (ArnAFT) (UDP-L-Ara4N formyltransferase); UDP-glucuronic acid oxidase, UDP-4-keto-hexauronic acid decarboxylating (EC 1.1.1.305) (ArnADH) (UDP-GlcUA decarboxylase) (UDP-glucuronic acid dehydrogenase)]	arnA	unreviewed
+V0VBA2	V0VBA2_ECOLX	Multidrug resistance protein MdtL	mdtL	unreviewed
+V0WE95	V0WE95_ECOLX	Aminoglycoside N(3)-acetyltransferase (EC 2.3.1.81)		unreviewed
+V0VEI0	V0VEI0_ECOLX	Aminoglycoside 3'-phosphotransferase (EC 2.7.1.95)		unreviewed
+V0V2C1	V0V2C1_ECOLX	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	unreviewed

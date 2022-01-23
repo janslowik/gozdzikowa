@@ -1,0 +1,21 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+D8EEE1	D8EEE1_ECOLX	Aminoglycoside 3'-phosphotransferase (EC 2.7.1.95)		unreviewed
+D8E662	D8E662_ECOLX	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87) (UDP-(beta-L-threo-pentapyranosyl-4''-ulose diphosphate) aminotransferase) (UDP-Ara4O aminotransferase) (UDP-4-amino-4-deoxy-L-arabinose aminotransferase)	arnB	unreviewed
+D8ECB6	D8ECB6_ECOLX	Multidrug resistance protein MdtL	mdtL	unreviewed
+D8EEE3	D8EEE3_ECOLX	Aminoglycoside 3'-phosphotransferase (EC 2.7.1.95)		unreviewed
+D8EEE2	D8EEE2_ECOLX	Aminoglycoside/hydroxyurea antibiotic resistance kinase		unreviewed
+D8E8I5	D8E8I5_ECOLX	Multidrug efflux pump accessory protein AcrZ (AcrAB-TolC multidrug efflux pump accessory protein AcrZ) (Acridine resistance protein Z)	acrZ	unreviewed
+D8E663	D8E663_ECOLX	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53) (Undecaprenyl-phosphate Ara4FN transferase) (Ara4FN transferase)	arnC	unreviewed
+D8E3N9	D8E3N9_ECOLX	Beta-lactamase (EC 3.5.2.6)		unreviewed
+D8E9H0	D8E9H0_ECOLX	Transcriptional regulator, TetR family		unreviewed
+D8E4U1	D8E4U1_ECOLX	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	unreviewed
+D8E664	D8E664_ECOLX	Bifunctional polymyxin resistance protein ArnA [Includes: UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13) (ArnAFT) (UDP-L-Ara4N formyltransferase); UDP-glucuronic acid oxidase, UDP-4-keto-hexauronic acid decarboxylating (EC 1.1.1.305) (ArnADH) (UDP-GlcUA decarboxylase) (UDP-glucuronic acid dehydrogenase)]	arnA	unreviewed
+D8E665	D8E665_ECOLX	Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)	arnD	unreviewed
+D8EA40	D8EA40_ECOLX	Multiple antibiotic resistance protein MarA	marA	unreviewed
+D8E871	D8E871_ECOLX	DD-transpeptidase (EC 2.4.1.129) (EC 3.4.16.4) (Penicillin-binding protein 1A) (Penicillin-insensitive transglycosylase) (Penicillin-sensitive transpeptidase) (Peptidoglycan TGase)		unreviewed
+D8E3D9	D8E3D9_ECOLX	Multidrug resistance protein MdtH	mdtH	unreviewed
+D8E9G9	D8E9G9_ECOLX	Transporter, major facilitator family protein		unreviewed
+D8EA41	D8EA41_ECOLX	Putative multiple antibiotic resistance protein MarB		unreviewed
+D8EAD9	D8EAD9_ECOLX	ABC transporter, ATP-binding protein		unreviewed
+D8E3F2	D8E3F2_ECOLX	Multidrug resistance protein MdtG	mdtG	unreviewed
+D8EA39	D8EA39_ECOLX	Multiple antibiotic resistance protein MarR	marR	unreviewed

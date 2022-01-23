@@ -1,0 +1,18 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+F4TCW0	F4TCW0_ECOLX	Multidrug resistance protein MdtG	mdtG	unreviewed
+F4TGU0	F4TGU0_ECOLX	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87) (UDP-(beta-L-threo-pentapyranosyl-4''-ulose diphosphate) aminotransferase) (UDP-Ara4O aminotransferase) (UDP-4-amino-4-deoxy-L-arabinose aminotransferase)	arnB	unreviewed
+F4TE07	F4TE07_ECOLX	Macrolide export ATP-binding/permease protein MacB 2		unreviewed
+F4TG51	F4TG51_ECOLX	Multiple antibiotic resistance protein MarA		unreviewed
+F4TJ22	F4TJ22_ECOLX	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	unreviewed
+F4TP57	F4TP57_ECOLX	Beta-lactamase (EC 3.5.2.6)		unreviewed
+F4TGU1	F4TGU1_ECOLX	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53) (Undecaprenyl-phosphate Ara4FN transferase) (Ara4FN transferase)	arnC	unreviewed
+F4TBX0	F4TBX0_ECOLX	Multidrug efflux pump accessory protein AcrZ (AcrAB-TolC multidrug efflux pump accessory protein AcrZ) (Acridine resistance protein Z)	acrZ	unreviewed
+F4TGU3	F4TGU3_ECOLX	Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)	arnD	unreviewed
+F4TEF5	F4TEF5_ECOLX	Tetracycline resistance protein, class C (TetA(C))		unreviewed
+F4TG50	F4TG50_ECOLX	Multiple antibiotic resistance protein MarR		unreviewed
+F4TGU2	F4TGU2_ECOLX	Bifunctional polymyxin resistance protein ArnA [Includes: UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13) (ArnAFT) (UDP-L-Ara4N formyltransferase); UDP-glucuronic acid oxidase, UDP-4-keto-hexauronic acid decarboxylating (EC 1.1.1.305) (ArnADH) (UDP-GlcUA decarboxylase) (UDP-glucuronic acid dehydrogenase)]	arnA	unreviewed
+F4TKY8	F4TKY8_ECOLX	Multidrug resistance protein MdtL	mdtL	unreviewed
+F4TCA4	F4TCA4_ECOLX	Macrolide export ATP-binding/permease protein MacB		unreviewed
+F4TEF6	F4TEF6_ECOLX	Tetracycline repressor protein class C		unreviewed
+F4TLD5	F4TLD5_ECOLX	DD-transpeptidase (EC 2.4.1.129) (EC 3.4.16.4) (Penicillin-binding protein 1A) (Penicillin-insensitive transglycosylase) (Penicillin-sensitive transpeptidase) (Peptidoglycan TGase)		unreviewed
+F4TCX4	F4TCX4_ECOLX	Multidrug resistance protein MdtH	mdtH	unreviewed

@@ -1,0 +1,16 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+D7Y4C8	D7Y4C8_ECOM1	Multidrug resistance protein MdtG	mdtG	unreviewed
+D7XYF9	D7XYF9_ECOM1	Multidrug resistance protein MdtL	mdtL	unreviewed
+D7Y465	D7Y465_ECOM1	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87) (UDP-(beta-L-threo-pentapyranosyl-4''-ulose diphosphate) aminotransferase) (UDP-Ara4O aminotransferase) (UDP-4-amino-4-deoxy-L-arabinose aminotransferase)	arnB	unreviewed
+D7Y4E1	D7Y4E1_ECOM1	Multidrug resistance protein MdtH	mdtH	unreviewed
+D7YAR6	D7YAR6_ECOM1	ABC transporter, ATP-binding protein		unreviewed
+D7Y630	D7Y630_ECOM1	DD-transpeptidase (EC 2.4.1.129) (EC 3.4.16.4) (Penicillin-binding protein 1A) (Penicillin-insensitive transglycosylase) (Penicillin-sensitive transpeptidase) (Peptidoglycan TGase)		unreviewed
+D7Y462	D7Y462_ECOM1	Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)	arnD	unreviewed
+D7Y225	D7Y225_ECOM1	Putative multiple antibiotic resistance protein MarB		unreviewed
+D7Y7P9	D7Y7P9_ECOM1	Multidrug efflux pump accessory protein AcrZ (AcrAB-TolC multidrug efflux pump accessory protein AcrZ) (Acridine resistance protein Z)	acrZ	unreviewed
+D7YA18	D7YA18_ECOM1	Beta-lactamase (EC 3.5.2.6) (Fragment)		unreviewed
+D7Y463	D7Y463_ECOM1	Bifunctional polymyxin resistance protein ArnA [Includes: UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13) (ArnAFT) (UDP-L-Ara4N formyltransferase); UDP-glucuronic acid oxidase, UDP-4-keto-hexauronic acid decarboxylating (EC 1.1.1.305) (ArnADH) (UDP-GlcUA decarboxylase) (UDP-glucuronic acid dehydrogenase)]	arnA	unreviewed
+D7Y226	D7Y226_ECOM1	Multiple antibiotic resistance protein MarA	marA	unreviewed
+D7Y227	D7Y227_ECOM1	Multiple antibiotic resistance protein MarR	marR	unreviewed
+D7Y464	D7Y464_ECOM1	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53) (Undecaprenyl-phosphate Ara4FN transferase) (Ara4FN transferase)	arnC	unreviewed
+D7Y114	D7Y114_ECOM1	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	unreviewed

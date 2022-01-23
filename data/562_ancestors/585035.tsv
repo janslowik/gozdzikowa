@@ -1,0 +1,16 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+B7MAD4	UPPP_ECO45	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	reviewed
+B7MG20	ARNB_ECO45	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87) (UDP-(beta-L-threo-pentapyranosyl-4''-ulose diphosphate) aminotransferase) (UDP-Ara4O aminotransferase) (UDP-4-amino-4-deoxy-L-arabinose aminotransferase)	arnB	reviewed
+B7MG21	ARNC_ECO45	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53) (Undecaprenyl-phosphate Ara4FN transferase) (Ara4FN transferase)	arnC	reviewed
+B7MG23	ARND_ECO45	Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)	arnD	reviewed
+B7MG22	ARNA_ECO45	Bifunctional polymyxin resistance protein ArnA [Includes: UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13) (ArnAFT) (UDP-L-Ara4N formyltransferase); UDP-glucuronic acid oxidase, UDP-4-keto-hexauronic acid decarboxylating (EC 1.1.1.305) (ArnADH) (UDP-GlcUA decarboxylase) (UDP-glucuronic acid dehydrogenase)]	arnA	reviewed
+B7MGD1	MDTL_ECO45	Multidrug resistance protein MdtL	mdtL	reviewed
+B7MIJ4	MDTG_ECO45	Multidrug resistance protein MdtG	mdtG	reviewed
+B7MIK6	MDTH_ECO45	Multidrug resistance protein MdtH	mdtH	reviewed
+B7MGL9	B7MGL9_ECO45	Multidrug efflux pump accessory protein AcrZ (AcrAB-TolC multidrug efflux pump accessory protein AcrZ) (Acridine resistance protein Z)	ybhT	unreviewed
+B7MMZ3	B7MMZ3_ECO45	DNA-binding transcriptional repressor of multiple antibiotic resistance	marR	unreviewed
+B7MMZ4	B7MMZ4_ECO45	DNA-binding transcriptional dual activator of multiple antibiotic resistance	marA	unreviewed
+B7MDM1	B7MDM1_ECO45	DD-transpeptidase (EC 2.4.1.129) (EC 3.4.16.4) (Penicillin-binding protein 1A) (Penicillin-insensitive transglycosylase) (Penicillin-sensitive transpeptidase) (Peptidoglycan TGase)	mrcA	unreviewed
+B7MHI5	B7MHI5_ECO45	Fused macrolide transporter subunits of ABC superfamily: ATP-binding component membrane component	macB	unreviewed
+B7LID9	B7LID9_ECO45	Putative type I secretion ATP binding protein EtsB	etsB	unreviewed
+B7MKV7	B7MKV7_ECO45	Beta-lactamase (EC 3.5.2.6)	ampC	unreviewed

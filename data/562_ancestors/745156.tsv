@@ -1,0 +1,19 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+A0A0E1M0H1	A0A0E1M0H1_ECOLX	Multidrug resistance protein MdtG	mdtG	unreviewed
+A0A0E1M2N5	A0A0E1M2N5_ECOLX	DD-transpeptidase (EC 2.4.1.129) (EC 3.4.16.4) (Penicillin-binding protein 1A) (Penicillin-insensitive transglycosylase) (Penicillin-sensitive transpeptidase) (Peptidoglycan TGase)	mrcA	unreviewed
+A0A0E1LVU8	A0A0E1LVU8_ECOLX	Tetracycline resistance determinant	tetB	unreviewed
+A0A0E1LZI4	A0A0E1LZI4_ECOLX	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87) (UDP-(beta-L-threo-pentapyranosyl-4''-ulose diphosphate) aminotransferase) (UDP-Ara4O aminotransferase) (UDP-4-amino-4-deoxy-L-arabinose aminotransferase)	arnB	unreviewed
+A0A0E1M603	A0A0E1M603_ECOLX	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	bacA	unreviewed
+A0A0E1M0B9	A0A0E1M0B9_ECOLX	Aminoglycoside/hydroxyurea antibiotic resistance kinase	strB	unreviewed
+A0A0E1LVW1	A0A0E1LVW1_ECOLX	Multidrug resistance protein MdtH	mdtH	unreviewed
+A0A0E1LV27	A0A0E1LV27_ECOLX	Fused macrolide transporter subunits of ABC superfamily: ATP-binding component/membrane component	macB	unreviewed
+A0A0E1LXF8	A0A0E1LXF8_ECOLX	Multiple antibiotic resistance transcriptional regulator	marA	unreviewed
+A0A0E1LZM4	A0A0E1LZM4_ECOLX	Bifunctional polymyxin resistance protein ArnA [Includes: UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13) (ArnAFT) (UDP-L-Ara4N formyltransferase); UDP-glucuronic acid oxidase, UDP-4-keto-hexauronic acid decarboxylating (EC 1.1.1.305) (ArnADH) (UDP-GlcUA decarboxylase) (UDP-glucuronic acid dehydrogenase)]	arnA	unreviewed
+A0A0E1LVP1	A0A0E1LVP1_ECOLX	Tetracycline repressor protein TetR	tetR	unreviewed
+A0A0E1LX58	A0A0E1LX58_ECOLX	Transcriptional repressor of multiple antibiotic resistance	marR	unreviewed
+A0A0E1M3L3	A0A0E1M3L3_ECOLX	Multidrug resistance protein MdtL	mdtL	unreviewed
+A0A0E1M940	A0A0E1M940_ECOLX	Beta-lactamase (EC 3.5.2.6)	ampC	unreviewed
+A0A0E1M1C7	A0A0E1M1C7_ECOLX	Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)	arnD	unreviewed
+A0A0E1LZA1	A0A0E1LZA1_ECOLX	Multidrug efflux pump accessory protein AcrZ (AcrAB-TolC multidrug efflux pump accessory protein AcrZ) (Acridine resistance protein Z)	acrZ	unreviewed
+A0A0E1LXM5	A0A0E1LXM5_ECOLX	Aminoglycoside 3'-phosphotransferase (EC 2.7.1.95)	strA	unreviewed
+A0A0E1LZD9	A0A0E1LZD9_ECOLX	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53) (Undecaprenyl-phosphate Ara4FN transferase) (Ara4FN transferase)	arnC	unreviewed

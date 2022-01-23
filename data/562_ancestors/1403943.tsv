@@ -1,0 +1,16 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+W1WX76	W1WX76_ECOLX	Multidrug efflux pump accessory protein AcrZ (AcrAB-TolC multidrug efflux pump accessory protein AcrZ) (Acridine resistance protein Z)	acrZ	unreviewed
+W1X1D6	W1X1D6_ECOLX	Multiple antibiotic resistance protein marR		unreviewed
+W1WWS7	W1WWS7_ECOLX	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53) (Undecaprenyl-phosphate Ara4FN transferase) (Ara4FN transferase)	arnC	unreviewed
+W1X9S2	W1X9S2_ECOLX	Bacitracin resistance protein (EC 3.6.1.27) (Undecaprenyl pyrophosphate phosphatase) (Undecaprenyl-diphosphatase) (Fragment)		unreviewed
+W1WHJ2	W1WHJ2_ECOLX	Bacitracin resistance protein (EC 3.6.1.27) (Undecaprenyl pyrophosphate phosphatase) (Undecaprenyl-diphosphatase) (Fragment)		unreviewed
+W1W077	W1W077_ECOLX	Beta-lactamase (EC 3.5.2.6)		unreviewed
+W1WX93	W1WX93_ECOLX	Multiple antibiotic resistance protein marB		unreviewed
+W1WXP4	W1WXP4_ECOLX	Bifunctional polymyxin resistance protein ArnA [Includes: UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13) (ArnAFT) (UDP-L-Ara4N formyltransferase); UDP-glucuronic acid oxidase, UDP-4-keto-hexauronic acid decarboxylating (EC 1.1.1.305) (ArnADH) (UDP-GlcUA decarboxylase) (UDP-glucuronic acid dehydrogenase)]	arnA	unreviewed
+W1X032	W1X032_ECOLX	Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)	arnD	unreviewed
+W1WYK1	W1WYK1_ECOLX	Multidrug resistance protein MdtG	mdtG	unreviewed
+W1WZN6	W1WZN6_ECOLX	Multiple antibiotic resistance protein marA		unreviewed
+W1XA03	W1XA03_ECOLX	Multiple antibiotic resistance protein marR (Fragment)		unreviewed
+W1WX51	W1WX51_ECOLX	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87) (UDP-(beta-L-threo-pentapyranosyl-4''-ulose diphosphate) aminotransferase) (UDP-Ara4O aminotransferase) (UDP-4-amino-4-deoxy-L-arabinose aminotransferase)	arnB	unreviewed
+W1WWW9	W1WWW9_ECOLX	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	unreviewed
+W1WXF9	W1WXF9_ECOLX	Multidrug resistance protein MdtH	mdtH	unreviewed

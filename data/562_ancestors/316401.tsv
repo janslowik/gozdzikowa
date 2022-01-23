@@ -1,0 +1,16 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+E3PM33	E3PM33_ECOH1	Multiple antibiotic resistance protein		unreviewed
+E3PDV8	E3PDV8_ECOH1	Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)	arnD	unreviewed
+E3PDV6	E3PDV6_ECOH1	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53) (Undecaprenyl-phosphate Ara4FN transferase) (Ara4FN transferase)	arnC	unreviewed
+E3PJM9	E3PJM9_ECOH1	Multidrug resistance protein MdtH	mdtH	unreviewed
+E3PNQ9	E3PNQ9_ECOH1	Multidrug resistance protein MdtL	mdtL	unreviewed
+E3PJL5	E3PJL5_ECOH1	Multidrug resistance protein MdtG	mdtG	unreviewed
+E3PDB0	E3PDB0_ECOH1	Beta-lactamase (EC 3.5.2.6)		unreviewed
+E3PHE4	E3PHE4_ECOH1	Multidrug efflux pump accessory protein AcrZ (AcrAB-TolC multidrug efflux pump accessory protein AcrZ) (Acridine resistance protein Z)	acrZ	unreviewed
+E3PM32	E3PM32_ECOH1	Multiple antibiotic resistance regulatory protein		unreviewed
+E3PLK3	E3PLK3_ECOH1	DD-transpeptidase (EC 2.4.1.129) (EC 3.4.16.4) (Penicillin-binding protein 1A) (Penicillin-insensitive transglycosylase) (Penicillin-sensitive transpeptidase) (Peptidoglycan TGase)		unreviewed
+E3PDV5	E3PDV5_ECOH1	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87) (UDP-(beta-L-threo-pentapyranosyl-4''-ulose diphosphate) aminotransferase) (UDP-Ara4O aminotransferase) (UDP-4-amino-4-deoxy-L-arabinose aminotransferase)	arnB	unreviewed
+E3PJX2	E3PJX2_ECOH1	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	unreviewed
+E3PDV7	E3PDV7_ECOH1	Bifunctional polymyxin resistance protein ArnA [Includes: UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13) (ArnAFT) (UDP-L-Ara4N formyltransferase); UDP-glucuronic acid oxidase, UDP-4-keto-hexauronic acid decarboxylating (EC 1.1.1.305) (ArnADH) (UDP-GlcUA decarboxylase) (UDP-glucuronic acid dehydrogenase)]	arnA	unreviewed
+E3PM31	E3PM31_ECOH1	Multiple antibiotic resistance regulatory protein		unreviewed
+D0Z6U7	D0Z6U7_ECOH1	Aminoglycoside 3'-phosphotransferase (EC 2.7.1.95)		unreviewed

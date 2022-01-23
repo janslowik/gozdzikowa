@@ -1,0 +1,16 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+S1F1N3	S1F1N3_ECOLX	Multidrug resistance protein MdtH	mdtH	unreviewed
+S1ESJ0	S1ESJ0_ECOLX	Multidrug efflux pump accessory protein AcrZ (AcrAB-TolC multidrug efflux pump accessory protein AcrZ) (Acridine resistance protein Z)	acrZ	unreviewed
+S1ELQ1	S1ELQ1_ECOLX	Multiple antibiotic resistance protein marR		unreviewed
+S1EX69	S1EX69_ECOLX	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	unreviewed
+S1EGL0	S1EGL0_ECOLX	Bifunctional polymyxin resistance protein ArnA [Includes: UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13) (ArnAFT) (UDP-L-Ara4N formyltransferase); UDP-glucuronic acid oxidase, UDP-4-keto-hexauronic acid decarboxylating (EC 1.1.1.305) (ArnADH) (UDP-GlcUA decarboxylase) (UDP-glucuronic acid dehydrogenase)]	arnA	unreviewed
+S1F6V8	S1F6V8_ECOLX	Multiple antibiotic resistance protein MarB		unreviewed
+S1EVQ4	S1EVQ4_ECOLX	Multidrug resistance protein MdtL	mdtL	unreviewed
+S1ERR8	S1ERR8_ECOLX	Beta-lactamase (EC 3.5.2.6)		unreviewed
+S1EY24	S1EY24_ECOLX	Multiple antibiotic resistance protein marA		unreviewed
+S1FCC2	S1FCC2_ECOLX	Multidrug resistance protein MdtG	mdtG	unreviewed
+S1ETD7	S1ETD7_ECOLX	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87) (UDP-(beta-L-threo-pentapyranosyl-4''-ulose diphosphate) aminotransferase) (UDP-Ara4O aminotransferase) (UDP-4-amino-4-deoxy-L-arabinose aminotransferase)	arnB	unreviewed
+S1F1Y7	S1F1Y7_ECOLX	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53) (Undecaprenyl-phosphate Ara4FN transferase) (Ara4FN transferase)	arnC	unreviewed
+S1EV69	S1EV69_ECOLX	DD-transpeptidase (EC 2.4.1.129) (EC 3.4.16.4) (Penicillin-binding protein 1A) (Penicillin-insensitive transglycosylase) (Penicillin-sensitive transpeptidase) (Peptidoglycan TGase)		unreviewed
+S1F4B5	S1F4B5_ECOLX	Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)	arnD	unreviewed
+S1ES24	S1ES24_ECOLX	Macrolide export ATP-binding/permease MacB		unreviewed

@@ -1,0 +1,17 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+A0A7U9QCV7	A0A7U9QCV7_ECOLX	Aminoglycoside 3'-phosphotransferase (EC 2.7.1.95)	strA	unreviewed
+A0A7U9LV85	A0A7U9LV85_ECOLX	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53) (Undecaprenyl-phosphate Ara4FN transferase) (Ara4FN transferase)	arnC	unreviewed
+A0A7U9QGL9	A0A7U9QGL9_ECOLX	Multidrug resistance protein MdtL	mdtL	unreviewed
+A0A7U9QDQ8	A0A7U9QDQ8_ECOLX	Multidrug resistance protein MdtH	mdtH	unreviewed
+A0A7U9QDR6	A0A7U9QDR6_ECOLX	Multiple antibiotic resistance transcriptional regulator	marA	unreviewed
+A0A7U9LTV1	A0A7U9LTV1_ECOLX	DD-transpeptidase (EC 2.4.1.129) (EC 3.4.16.4) (Penicillin-binding protein 1A) (Penicillin-insensitive transglycosylase) (Penicillin-sensitive transpeptidase) (Peptidoglycan TGase)	mrcA	unreviewed
+A0A7U9LWW0	A0A7U9LWW0_ECOLX	Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)	arnD	unreviewed
+A0A7U9LL73	A0A7U9LL73_ECOLX	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	bacA	unreviewed
+A0A7U9QHU5	A0A7U9QHU5_ECOLX	Multidrug efflux pump accessory protein AcrZ (AcrAB-TolC multidrug efflux pump accessory protein AcrZ) (Acridine resistance protein Z)	acrZ	unreviewed
+A0A7U9LZM2	A0A7U9LZM2_ECOLX	Macrolide ABC transporter permease/ATPase	macB	unreviewed
+A0A7U9LPK4	A0A7U9LPK4_ECOLX	Tetracycline repressor protein TetR	tetR	unreviewed
+A0A7U9LV73	A0A7U9LV73_ECOLX	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87) (UDP-(beta-L-threo-pentapyranosyl-4''-ulose diphosphate) aminotransferase) (UDP-Ara4O aminotransferase) (UDP-4-amino-4-deoxy-L-arabinose aminotransferase)	arnB	unreviewed
+A0A7U9LWV2	A0A7U9LWV2_ECOLX	Bifunctional polymyxin resistance protein ArnA [Includes: UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13) (ArnAFT) (UDP-L-Ara4N formyltransferase); UDP-glucuronic acid oxidase, UDP-4-keto-hexauronic acid decarboxylating (EC 1.1.1.305) (ArnADH) (UDP-GlcUA decarboxylase) (UDP-glucuronic acid dehydrogenase)]	arnA	unreviewed
+A0A7U9QEY3	A0A7U9QEY3_ECOLX	Beta-lactamase (EC 3.5.2.6)	ampC_1	unreviewed
+A0A7U9LXK8	A0A7U9LXK8_ECOLX	Tetracycline resistance structural protein TetA	tetA	unreviewed
+A0A7U9QED9	A0A7U9QED9_ECOLX	Multidrug resistance protein MdtG	mdtG	unreviewed

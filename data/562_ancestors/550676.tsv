@@ -1,0 +1,16 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+D6I818	D6I818_ECOLX	ABC transporter		unreviewed
+D6I9H8	D6I9H8_ECOLX	Antibiotic resistance protein		unreviewed
+D6IAN0	D6IAN0_ECOLX	Multiple antibiotic resistance protein marA		unreviewed
+D6I5Y8	D6I5Y8_ECOLX	Multidrug resistance protein MdtG	mdtG	unreviewed
+D6I9J6	D6I9J6_ECOLX	Bifunctional polymyxin resistance protein ArnA [Includes: UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13) (ArnAFT) (UDP-L-Ara4N formyltransferase); UDP-glucuronic acid oxidase, UDP-4-keto-hexauronic acid decarboxylating (EC 1.1.1.305) (ArnADH) (UDP-GlcUA decarboxylase) (UDP-glucuronic acid dehydrogenase)]	arnA	unreviewed
+D6I9J7	D6I9J7_ECOLX	Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)	arnD	unreviewed
+D6I5Z9	D6I5Z9_ECOLX	Multidrug resistance protein MdtH	mdtH	unreviewed
+D6IFV3	D6IFV3_ECOLX	Multidrug resistance protein MdtL	mdtL	unreviewed
+D6I7P7	D6I7P7_ECOLX	Multidrug efflux pump accessory protein AcrZ (AcrAB-TolC multidrug efflux pump accessory protein AcrZ) (Acridine resistance protein Z)	acrZ	unreviewed
+D6IH93	D6IH93_ECOLX	Beta-lactamase (EC 3.5.2.6)		unreviewed
+D6I9J4	D6I9J4_ECOLX	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87) (UDP-(beta-L-threo-pentapyranosyl-4''-ulose diphosphate) aminotransferase) (UDP-Ara4O aminotransferase) (UDP-4-amino-4-deoxy-L-arabinose aminotransferase)	arnB	unreviewed
+D6IDX9	D6IDX9_ECOLX	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	unreviewed
+D6IAM9	D6IAM9_ECOLX	Multiple antibiotic resistance protein marR		unreviewed
+D6IES8	D6IES8_ECOLX	DD-transpeptidase (EC 2.4.1.129) (EC 3.4.16.4) (Penicillin-binding protein 1A) (Penicillin-insensitive transglycosylase) (Penicillin-sensitive transpeptidase) (Peptidoglycan TGase)		unreviewed
+D6I9J5	D6I9J5_ECOLX	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53) (Undecaprenyl-phosphate Ara4FN transferase) (Ara4FN transferase)	arnC	unreviewed

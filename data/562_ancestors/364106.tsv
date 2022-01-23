@@ -1,0 +1,17 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+Q1R6S4	UPPP_ECOUT	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	reviewed
+Q1R9G0	ARNA_ECOUT	Bifunctional polymyxin resistance protein ArnA [Includes: UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13) (ArnAFT) (UDP-L-Ara4N formyltransferase); UDP-glucuronic acid oxidase, UDP-4-keto-hexauronic acid decarboxylating (EC 1.1.1.305) (ArnADH) (UDP-GlcUA decarboxylase) (UDP-glucuronic acid dehydrogenase)]	arnA	reviewed
+Q1R9F9	ARND_ECOUT	Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)	arnD	reviewed
+Q1R9G2	ARNB_ECOUT	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87) (UDP-(beta-L-threo-pentapyranosyl-4''-ulose diphosphate) aminotransferase) (UDP-Ara4O aminotransferase) (UDP-4-amino-4-deoxy-L-arabinose aminotransferase)	arnB	reviewed
+Q1R9G1	ARNC_ECOUT	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53) (Undecaprenyl-phosphate Ara4FN transferase) (Ara4FN transferase)	arnC	reviewed
+Q1R4M4	MDTL_ECOUT	Multidrug resistance protein MdtL	mdtL	reviewed
+Q1RE44	MACB_ECOUT	Macrolide export ATP-binding/permease protein MacB (EC 7.6.2.-)	macB	reviewed
+Q1RDA5	MDTG_ECOUT	Multidrug resistance protein MdtG	mdtG	reviewed
+Q1RD92	MDTH_ECOUT	Multidrug resistance protein MdtH	mdtH	reviewed
+Q1RBN5	Q1RBN5_ECOUT	Multiple antibiotic resistance protein MarB	marB	unreviewed
+Q1RBN7	Q1RBN7_ECOUT	Multiple antibiotic resistance protein MarR	marR	unreviewed
+Q1REG9	Q1REG9_ECOUT	Multidrug efflux pump accessory protein AcrZ (AcrAB-TolC multidrug efflux pump accessory protein AcrZ) (Acridine resistance protein Z)	ybhT	unreviewed
+Q1R3A7	Q1R3A7_ECOUT	Beta-lactamase (EC 3.5.2.6)	ampC	unreviewed
+Q1R5P1	Q1R5P1_ECOUT	DD-transpeptidase (EC 2.4.1.129) (EC 3.4.16.4) (Penicillin-binding protein 1A) (Penicillin-insensitive transglycosylase) (Penicillin-sensitive transpeptidase) (Peptidoglycan TGase)	mrcA	unreviewed
+Q1RAD8	Q1RAD8_ECOUT	Beta-lactamase (EC 3.5.2.6)		unreviewed
+Q1RBN6	Q1RBN6_ECOUT	Multiple antibiotic resistance protein MarA	marA	unreviewed

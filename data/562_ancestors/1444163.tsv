@@ -1,0 +1,18 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+A0A080IK12	A0A080IK12_ECOLX	Multidrug resistance protein MdtL	mdtL	unreviewed
+A0A080IV92	A0A080IV92_ECOLX	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53) (Undecaprenyl-phosphate Ara4FN transferase) (Ara4FN transferase)	arnC	unreviewed
+A0A080IXT0	A0A080IXT0_ECOLX	Multiple antibiotic resistance protein marR	marR	unreviewed
+A0A080J844	A0A080J844_ECOLX	Multidrug resistance protein MdtG	mdtG	unreviewed
+A0A080HMX6	A0A080HMX6_ECOLX	Beta-lactamase (EC 3.5.2.6)	blaT-6	unreviewed
+A0A080HUP9	A0A080HUP9_ECOLX	Chloramphenicol acetyltransferase (EC 2.3.1.28)	cat	unreviewed
+A0A080IP23	A0A080IP23_ECOLX	DD-transpeptidase (EC 2.4.1.129) (EC 3.4.16.4) (Penicillin-binding protein 1A) (Penicillin-insensitive transglycosylase) (Penicillin-sensitive transpeptidase) (Peptidoglycan TGase)	mrcA	unreviewed
+A0A080J6K2	A0A080J6K2_ECOLX	Multidrug resistance protein MdtH	mdtH	unreviewed
+A0A080IUY5	A0A080IUY5_ECOLX	Bifunctional polymyxin resistance protein ArnA [Includes: UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13) (ArnAFT) (UDP-L-Ara4N formyltransferase); UDP-glucuronic acid oxidase, UDP-4-keto-hexauronic acid decarboxylating (EC 1.1.1.305) (ArnADH) (UDP-GlcUA decarboxylase) (UDP-glucuronic acid dehydrogenase)]	arnA	unreviewed
+A0A080IR24	A0A080IR24_ECOLX	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	unreviewed
+A0A080IV01	A0A080IV01_ECOLX	Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)	arnD	unreviewed
+A0A080IAP4	A0A080IAP4_ECOLX	Beta-lactamase (EC 3.5.2.6)	ampC	unreviewed
+A0A080J9I2	A0A080J9I2_ECOLX	Multidrug efflux pump accessory protein AcrZ (AcrAB-TolC multidrug efflux pump accessory protein AcrZ) (Acridine resistance protein Z)	acrZ	unreviewed
+A0A080HQW1	A0A080HQW1_ECOLX	Aminoglycoside (3'') (9) adenylyltransferase (EC 2.7.7.47)		unreviewed
+A0A080J1J4	A0A080J1J4_ECOLX	Multiple antibiotic resistance protein marA	marA	unreviewed
+A0A080J4F4	A0A080J4F4_ECOLX	Macrolide export ATP-binding/permease protein MacB (EC 3.6.3.-)	macB	unreviewed
+A0A080IYR5	A0A080IYR5_ECOLX	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87) (UDP-(beta-L-threo-pentapyranosyl-4''-ulose diphosphate) aminotransferase) (UDP-Ara4O aminotransferase) (UDP-4-amino-4-deoxy-L-arabinose aminotransferase)	arnB	unreviewed

@@ -1,0 +1,9 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+B1IRQ9	UPPP_ECOLC	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	reviewed
+B1IXT1	ARND_ECOLC	Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)	arnD	reviewed
+B1IXT2	ARNA_ECOLC	Bifunctional polymyxin resistance protein ArnA [Includes: UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13) (ArnAFT) (UDP-L-Ara4N formyltransferase); UDP-glucuronic acid oxidase, UDP-4-keto-hexauronic acid decarboxylating (EC 1.1.1.305) (ArnADH) (UDP-GlcUA decarboxylase) (UDP-glucuronic acid dehydrogenase)]	arnA	reviewed
+B1IXT3	ARNC_ECOLC	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53) (Undecaprenyl-phosphate Ara4FN transferase) (Ara4FN transferase)	arnC	reviewed
+B1IXT4	ARNB_ECOLC	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87) (UDP-(beta-L-threo-pentapyranosyl-4''-ulose diphosphate) aminotransferase) (UDP-Ara4O aminotransferase) (UDP-4-amino-4-deoxy-L-arabinose aminotransferase)	arnB	reviewed
+B1IX28	MDTL_ECOLC	Multidrug resistance protein MdtL	mdtL	reviewed
+B1IV49	MDTG_ECOLC	Multidrug resistance protein MdtG	mdtG	reviewed
+B1IV37	MDTH_ECOLC	Multidrug resistance protein MdtH	mdtH	reviewed

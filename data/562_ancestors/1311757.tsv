@@ -1,0 +1,7 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+A0A140WY04	A0A140WY04_ECOLX	Aminoglycoside N(3)-acetyltransferase (EC 2.3.1.81)	aacC3	unreviewed
+A0A140WZ24	A0A140WZ24_ECOLX	Aminoglycoside (3'') (9) adenylyltransferase (EC 2.7.7.47)	aadA1	unreviewed
+A0A140WZ14	A0A140WZ14_ECOLX	Beta-lactamase (EC 3.5.2.6)	blaTEM-1	unreviewed
+A0A140WZ20	A0A140WZ20_ECOLX	Aminoglycoside 3'-phosphotransferase (EC 2.7.1.95)	strA	unreviewed
+A0A140WYD4	A0A140WYD4_ECOLX	ABC transporter,macrolide export ATP-binding/permease protein EtsB	etsB	unreviewed
+A0A140WY25	A0A140WY25_ECOLX	Aminoglycoside 3'-phosphotransferase (EC 2.7.1.95)		unreviewed

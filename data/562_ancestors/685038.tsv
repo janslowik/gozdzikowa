@@ -1,0 +1,19 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+A0A0H3EFD9	A0A0H3EFD9_ECO8N	Macrolide transporter ATP-binding /permease protein		unreviewed
+A0A0H3ERP7	A0A0H3ERP7_ECO8N	Multidrug resistance protein MdtL	mdtL	unreviewed
+A0A0H3EG13	A0A0H3EG13_ECO8N	Multidrug resistance protein MdtH	mdtH	unreviewed
+A0A0H3ERC1	A0A0H3ERC1_ECO8N	Tetracycline resistance protein A	tetA	unreviewed
+A0A0H3EQ55	A0A0H3EQ55_ECO8N	Aminoglycoside (3'') (9) adenylyltransferase (EC 2.7.7.47)		unreviewed
+A0A0H3EMT0	A0A0H3EMT0_ECO8N	DD-transpeptidase (EC 2.4.1.129) (EC 3.4.16.4) (Penicillin-binding protein 1A) (Penicillin-insensitive transglycosylase) (Penicillin-sensitive transpeptidase) (Peptidoglycan TGase)	mrcA	unreviewed
+A0A0H3EQ98	A0A0H3EQ98_ECO8N	Beta-lactamase (EC 3.5.2.6)	ampC	unreviewed
+A0A0H3EHE7	A0A0H3EHE7_ECO8N	Multidrug resistance protein MdtG	mdtG	unreviewed
+A0A0H3EKU1	A0A0H3EKU1_ECO8N	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53) (Undecaprenyl-phosphate Ara4FN transferase) (Ara4FN transferase)	arnC	unreviewed
+A0A0H3EUD5	A0A0H3EUD5_ECO8N	Aminoglycoside 3'-phosphotransferase (EC 2.7.1.95)		unreviewed
+A0A0H3EGM8	A0A0H3EGM8_ECO8N	Multidrug efflux pump accessory protein AcrZ (AcrAB-TolC multidrug efflux pump accessory protein AcrZ) (Acridine resistance protein Z)	acrZ	unreviewed
+A0A0H3ELJ5	A0A0H3ELJ5_ECO8N	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	unreviewed
+A0A0H3ER07	A0A0H3ER07_ECO8N	Tetracycline repressor protein R	tetR	unreviewed
+A0A0H3EUC4	A0A0H3EUC4_ECO8N	Chloramphenicol acetyltransferase (EC 2.3.1.28)		unreviewed
+A0A0H3EL90	A0A0H3EL90_ECO8N	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87) (UDP-(beta-L-threo-pentapyranosyl-4''-ulose diphosphate) aminotransferase) (UDP-Ara4O aminotransferase) (UDP-4-amino-4-deoxy-L-arabinose aminotransferase)	arnB	unreviewed
+A0A0H3EUC9	A0A0H3EUC9_ECO8N	Beta-lactamase (EC 3.5.2.6)		unreviewed
+A0A0H3EMD5	A0A0H3EMD5_ECO8N	Bifunctional polymyxin resistance protein ArnA [Includes: UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13) (ArnAFT) (UDP-L-Ara4N formyltransferase); UDP-glucuronic acid oxidase, UDP-4-keto-hexauronic acid decarboxylating (EC 1.1.1.305) (ArnADH) (UDP-GlcUA decarboxylase) (UDP-glucuronic acid dehydrogenase)]	arnA	unreviewed
+A0A0H3EJF9	A0A0H3EJF9_ECO8N	Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)	arnD	unreviewed

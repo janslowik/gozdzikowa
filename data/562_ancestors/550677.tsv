@@ -1,0 +1,12 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+D6J920	D6J920_ECOLX	Multidrug resistance protein MdtH	mdtH	unreviewed
+D6J910	D6J910_ECOLX	Multidrug resistance protein MdtG	mdtG	unreviewed
+D6JH42	D6JH42_ECOLX	Multidrug resistance protein MdtL	mdtL	unreviewed
+D6J5D0	D6J5D0_ECOLX	Beta-lactamase (EC 3.5.2.6)		unreviewed
+D6JCF3	D6JCF3_ECOLX	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87) (UDP-(beta-L-threo-pentapyranosyl-4''-ulose diphosphate) aminotransferase) (UDP-Ara4O aminotransferase) (UDP-4-amino-4-deoxy-L-arabinose aminotransferase)	arnB	unreviewed
+D6JCF6	D6JCF6_ECOLX	Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)	arnD	unreviewed
+D6JFX1	D6JFX1_ECOLX	DD-transpeptidase (EC 2.4.1.129) (EC 3.4.16.4) (Penicillin-binding protein 1A) (Penicillin-insensitive transglycosylase) (Penicillin-sensitive transpeptidase) (Peptidoglycan TGase)		unreviewed
+D6J8J5	D6J8J5_ECOLX	ABC transporter domain-containing protein		unreviewed
+D6JCF4	D6JCF4_ECOLX	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53) (Undecaprenyl-phosphate Ara4FN transferase) (Ara4FN transferase)	arnC	unreviewed
+D6JFK0	D6JFK0_ECOLX	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	unreviewed
+D6JCF5	D6JCF5_ECOLX	Bifunctional polymyxin resistance protein ArnA [Includes: UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13) (ArnAFT) (UDP-L-Ara4N formyltransferase); UDP-glucuronic acid oxidase, UDP-4-keto-hexauronic acid decarboxylating (EC 1.1.1.305) (ArnADH) (UDP-GlcUA decarboxylase) (UDP-glucuronic acid dehydrogenase)]	arnA	unreviewed

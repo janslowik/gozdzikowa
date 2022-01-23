@@ -1,0 +1,18 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+A0A0E0XWJ2	A0A0E0XWJ2_ECO1C	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53) (Undecaprenyl-phosphate Ara4FN transferase) (Ara4FN transferase)	arnC	unreviewed
+A0A0E0XVQ6	A0A0E0XVQ6_ECO1C	Tetracycline efflux protein		unreviewed
+A0A0E0Y0W8	A0A0E0Y0W8_ECO1C	Multidrug resistance protein MdtH	mdtH	unreviewed
+A0A0E0Y1F6	A0A0E0Y1F6_ECO1C	Macrolide transporter ATP-binding /permease protein		unreviewed
+A0A0E0Y292	A0A0E0Y292_ECO1C	Multidrug resistance protein MdtG	mdtG	unreviewed
+A0A0E0XUV2	A0A0E0XUV2_ECO1C	DD-transpeptidase (EC 2.4.1.129) (EC 3.4.16.4) (Penicillin-binding protein 1A) (Penicillin-insensitive transglycosylase) (Penicillin-sensitive transpeptidase) (Peptidoglycan TGase)	mrcA	unreviewed
+A0A0E0XY26	A0A0E0XY26_ECO1C	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87) (UDP-(beta-L-threo-pentapyranosyl-4''-ulose diphosphate) aminotransferase) (UDP-Ara4O aminotransferase) (UDP-4-amino-4-deoxy-L-arabinose aminotransferase)	arnB	unreviewed
+A0A0E0XVR7	A0A0E0XVR7_ECO1C	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	unreviewed
+A0A0E0XS84	A0A0E0XS84_ECO1C	Aminoglycoside 3'-phosphotransferase (EC 2.7.1.95)		unreviewed
+A0A0E0XTY5	A0A0E0XTY5_ECO1C	Tetracycline repressor protein		unreviewed
+A0A0E0Y046	A0A0E0Y046_ECO1C	Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)	arnD	unreviewed
+A0A0E0Y7Z1	A0A0E0Y7Z1_ECO1C	Beta-lactamase (EC 3.5.2.6)		unreviewed
+A0A0E0XY93	A0A0E0XY93_ECO1C	Bifunctional polymyxin resistance protein ArnA [Includes: UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13) (ArnAFT) (UDP-L-Ara4N formyltransferase); UDP-glucuronic acid oxidase, UDP-4-keto-hexauronic acid decarboxylating (EC 1.1.1.305) (ArnADH) (UDP-GlcUA decarboxylase) (UDP-glucuronic acid dehydrogenase)]	arnA	unreviewed
+A0A0E0Y2C3	A0A0E0Y2C3_ECO1C	Multidrug efflux pump accessory protein AcrZ (AcrAB-TolC multidrug efflux pump accessory protein AcrZ) (Acridine resistance protein Z)	acrZ	unreviewed
+A0A0E0Y547	A0A0E0Y547_ECO1C	Beta-lactamase (EC 3.5.2.6)	ampC	unreviewed
+A0A0E0Y7Z8	A0A0E0Y7Z8_ECO1C	Beta-lactamase (EC 3.5.2.6)		unreviewed
+A0A0E0YA11	A0A0E0YA11_ECO1C	Multidrug resistance protein MdtL	mdtL	unreviewed

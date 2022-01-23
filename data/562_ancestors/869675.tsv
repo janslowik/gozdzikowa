@@ -1,0 +1,16 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+I2STE9	I2STE9_ECOLX	Putative multiple antibiotic resistance protein MarB		unreviewed
+I2SY03	I2SY03_ECOLX	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87) (UDP-(beta-L-threo-pentapyranosyl-4''-ulose diphosphate) aminotransferase) (UDP-Ara4O aminotransferase) (UDP-4-amino-4-deoxy-L-arabinose aminotransferase)	arnB	unreviewed
+I2SXR4	I2SXR4_ECOLX	Bifunctional polymyxin resistance protein ArnA [Includes: UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13) (ArnAFT) (UDP-L-Ara4N formyltransferase); UDP-glucuronic acid oxidase, UDP-4-keto-hexauronic acid decarboxylating (EC 1.1.1.305) (ArnADH) (UDP-GlcUA decarboxylase) (UDP-glucuronic acid dehydrogenase)]	arnA	unreviewed
+I2SNW8	I2SNW8_ECOLX	Multidrug resistance protein MdtG	mdtG	unreviewed
+I2SY27	I2SY27_ECOLX	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53) (Undecaprenyl-phosphate Ara4FN transferase) (Ara4FN transferase)	arnC	unreviewed
+I2STC1	I2STC1_ECOLX	Multiple antibiotic resistance protein MarA	marA	unreviewed
+I2SR05	I2SR05_ECOLX	Beta-lactamase (EC 3.5.2.6)		unreviewed
+I2SYR6	I2SYR6_ECOLX	Multidrug efflux pump accessory protein AcrZ (AcrAB-TolC multidrug efflux pump accessory protein AcrZ) (Acridine resistance protein Z)	acrZ	unreviewed
+I2SSN4	I2SSN4_ECOLX	Multiple antibiotic resistance protein MarR	marR	unreviewed
+I2SVC4	I2SVC4_ECOLX	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	unreviewed
+I2SRV2	I2SRV2_ECOLX	Multidrug resistance protein MdtL	mdtL	unreviewed
+I2SX63	I2SX63_ECOLX	Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)	arnD	unreviewed
+I2SP42	I2SP42_ECOLX	Multidrug resistance protein MdtH	mdtH	unreviewed
+I2SZB2	I2SZB2_ECOLX	Efflux ABC transporter, permease protein		unreviewed
+I2SVT8	I2SVT8_ECOLX	DD-transpeptidase (EC 2.4.1.129) (EC 3.4.16.4) (Penicillin-binding protein 1A) (Penicillin-insensitive transglycosylase) (Penicillin-sensitive transpeptidase) (Peptidoglycan TGase)	mrcA	unreviewed

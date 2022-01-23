@@ -1,0 +1,18 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+U9ZTI1	U9ZTI1_ECOLX	DD-transpeptidase (EC 2.4.1.129) (EC 3.4.16.4) (Penicillin-binding protein 1A) (Penicillin-insensitive transglycosylase) (Penicillin-sensitive transpeptidase) (Peptidoglycan TGase)		unreviewed
+V0A6J5	V0A6J5_ECOLX	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87) (UDP-(beta-L-threo-pentapyranosyl-4''-ulose diphosphate) aminotransferase) (UDP-Ara4O aminotransferase) (UDP-4-amino-4-deoxy-L-arabinose aminotransferase)	arnB	unreviewed
+U9ZWQ9	U9ZWQ9_ECOLX	Beta-lactamase (EC 3.5.2.6)		unreviewed
+V0A916	V0A916_ECOLX	Beta-lactamase (EC 3.5.2.6)		unreviewed
+U9YZ35	U9YZ35_ECOLX	Multiple antibiotic resistance protein MarA		unreviewed
+V0A243	V0A243_ECOLX	Multidrug resistance protein MdtG	mdtG	unreviewed
+V0A1J6	V0A1J6_ECOLX	Multidrug resistance protein MdtH	mdtH	unreviewed
+V0A6I9	V0A6I9_ECOLX	Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)	arnD	unreviewed
+U9ZAE9	U9ZAE9_ECOLX	Putative multiple antibiotic resistance protein MarB		unreviewed
+U9ZVM0	U9ZVM0_ECOLX	Multidrug efflux pump accessory protein AcrZ (AcrAB-TolC multidrug efflux pump accessory protein AcrZ) (Acridine resistance protein Z)	acrZ	unreviewed
+V0ACH6	V0ACH6_ECOLX	Multidrug resistance protein MdtL	mdtL	unreviewed
+U9ZXK0	U9ZXK0_ECOLX	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	unreviewed
+V0A4V9	V0A4V9_ECOLX	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53) (Undecaprenyl-phosphate Ara4FN transferase) (Ara4FN transferase)	arnC	unreviewed
+U9Z169	U9Z169_ECOLX	Multiple antibiotic resistance protein MarR		unreviewed
+V0AB89	V0AB89_ECOLX	Aminoglycoside/hydroxyurea antibiotic resistance kinase		unreviewed
+V0AMB1	V0AMB1_ECOLX	Aminoglycoside 3'-phosphotransferase (EC 2.7.1.95)		unreviewed
+U9Z7K8	U9Z7K8_ECOLX	Macrolide export ATP-binding/permease protein MacB		unreviewed

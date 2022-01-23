@@ -1,0 +1,15 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+A0A029HSN0	A0A029HSN0_ECOLX	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87) (UDP-(beta-L-threo-pentapyranosyl-4''-ulose diphosphate) aminotransferase) (UDP-Ara4O aminotransferase) (UDP-4-amino-4-deoxy-L-arabinose aminotransferase)	arnB	unreviewed
+A0A029I5G4	A0A029I5G4_ECOLX	Multidrug resistance protein MdtG	mdtG	unreviewed
+A0A029I8W3	A0A029I8W3_ECOLX	Macrolide export ATP-binding/permease protein MacB (EC 3.6.3.-)	macB	unreviewed
+A0A029HFY0	A0A029HFY0_ECOLX	Multidrug resistance protein MdtL	mdtL	unreviewed
+A0A029HHV7	A0A029HHV7_ECOLX	DD-transpeptidase (EC 2.4.1.129) (EC 3.4.16.4) (Penicillin-binding protein 1A) (Penicillin-insensitive transglycosylase) (Penicillin-sensitive transpeptidase) (Peptidoglycan TGase)	mrcA	unreviewed
+A0A029I6B4	A0A029I6B4_ECOLX	Multidrug resistance protein MdtH	mdtH	unreviewed
+A0A029I1V9	A0A029I1V9_ECOLX	Multiple antibiotic resistance protein marA	marA	unreviewed
+A0A029HBW0	A0A029HBW0_ECOLX	Beta-lactamase (EC 3.5.2.6)	ampC	unreviewed
+A0A029HIT5	A0A029HIT5_ECOLX	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	unreviewed
+A0A029HTS0	A0A029HTS0_ECOLX	Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)	arnD	unreviewed
+A0A029HTN1	A0A029HTN1_ECOLX	Bifunctional polymyxin resistance protein ArnA [Includes: UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13) (ArnAFT) (UDP-L-Ara4N formyltransferase); UDP-glucuronic acid oxidase, UDP-4-keto-hexauronic acid decarboxylating (EC 1.1.1.305) (ArnADH) (UDP-GlcUA decarboxylase) (UDP-glucuronic acid dehydrogenase)]	arnA	unreviewed
+A0A029I1A0	A0A029I1A0_ECOLX	Multiple antibiotic resistance protein marR	marR	unreviewed
+A0A029HTF9	A0A029HTF9_ECOLX	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53) (Undecaprenyl-phosphate Ara4FN transferase) (Ara4FN transferase)	arnC	unreviewed
+A0A029IA66	A0A029IA66_ECOLX	Multidrug efflux pump accessory protein AcrZ (AcrAB-TolC multidrug efflux pump accessory protein AcrZ) (Acridine resistance protein Z)	acrZ	unreviewed

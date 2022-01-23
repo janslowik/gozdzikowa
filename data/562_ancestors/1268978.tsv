@@ -1,0 +1,17 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+U9XGE4	U9XGE4_ECOLX	Multidrug resistance protein MdtH	mdtH	unreviewed
+U9XVX6	U9XVX6_ECOLX	Multiple antibiotic resistance protein MarA		unreviewed
+U9YBT9	U9YBT9_ECOLX	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87) (UDP-(beta-L-threo-pentapyranosyl-4''-ulose diphosphate) aminotransferase) (UDP-Ara4O aminotransferase) (UDP-4-amino-4-deoxy-L-arabinose aminotransferase)	arnB	unreviewed
+U9YL22	U9YL22_ECOLX	Bifunctional polymyxin resistance protein ArnA [Includes: UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13) (ArnAFT) (UDP-L-Ara4N formyltransferase); UDP-glucuronic acid oxidase, UDP-4-keto-hexauronic acid decarboxylating (EC 1.1.1.305) (ArnADH) (UDP-GlcUA decarboxylase) (UDP-glucuronic acid dehydrogenase)]	arnA	unreviewed
+U9Y609	U9Y609_ECOLX	Beta-lactamase (EC 3.5.2.6)		unreviewed
+U9XYY1	U9XYY1_ECOLX	DD-transpeptidase (EC 2.4.1.129) (EC 3.4.16.4) (Penicillin-binding protein 1A) (Penicillin-insensitive transglycosylase) (Penicillin-sensitive transpeptidase) (Peptidoglycan TGase)		unreviewed
+U9XIE3	U9XIE3_ECOLX	Multidrug resistance protein MdtG	mdtG	unreviewed
+U9Y9T6	U9Y9T6_ECOLX	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53) (Undecaprenyl-phosphate Ara4FN transferase) (Ara4FN transferase)	arnC	unreviewed
+U9Y7X9	U9Y7X9_ECOLX	Putative multiple antibiotic resistance protein MarB		unreviewed
+U9XV77	U9XV77_ECOLX	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	unreviewed
+U9XQF1	U9XQF1_ECOLX	Multidrug efflux pump accessory protein AcrZ (AcrAB-TolC multidrug efflux pump accessory protein AcrZ) (Acridine resistance protein Z)	acrZ	unreviewed
+U9Y6T7	U9Y6T7_ECOLX	Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)	arnD	unreviewed
+U9XU51	U9XU51_ECOLX	Macrolide export ATP-binding/permease protein MacB		unreviewed
+U9XZ52	U9XZ52_ECOLX	Multiple antibiotic resistance protein MarR		unreviewed
+U9Y8G7	U9Y8G7_ECOLX	Beta-lactamase (EC 3.5.2.6)		unreviewed
+U9XSM2	U9XSM2_ECOLX	Multidrug resistance protein MdtL	mdtL	unreviewed

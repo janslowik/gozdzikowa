@@ -1,0 +1,101 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+D2WFB1	D2WFB1_ECOLX	Aminoglycoside 3'-phosphotransferase (EC 2.7.1.95)	strA	unreviewed
+D2WFG8	D2WFG8_ECOLX	Putative transposase		unreviewed
+D2WFA4	D2WFA4_ECOLX	Integrase IntI1	intI1	unreviewed
+D2WFA7	D2WFA7_ECOLX	Beta-lactamase (EC 3.5.2.6)	blaTEM1	unreviewed
+D2WFB2	D2WFB2_ECOLX	Aminoglycoside resistance protein B	strB	unreviewed
+D2WFJ3	D2WFJ3_ECOLX	Polysaccharide deacetylase		unreviewed
+D2WFH4	D2WFH4_ECOLX	Relaxase/mobilization nuclease	nikB	unreviewed
+D2WFJ0	D2WFJ0_ECOLX	Lipid A biosynthesis myristoyltransferase (EC 2.3.1.243) (Kdo(2)-lauroyl-lipid IV(A) myristoyltransferase)	msbB	unreviewed
+D2WFH0	D2WFH0_ECOLX	Uncharacterized protein		unreviewed
+D2WFB4	D2WFB4_ECOLX	Aminoglycoside 3'-phosphotransferase (EC 2.7.1.95)	aphA	unreviewed
+D2WFD1	D2WFD1_ECOLX	Putative transposase		unreviewed
+D2WFF9	D2WFF9_ECOLX	Uncharacterized protein		unreviewed
+D2WFJ2	D2WFJ2_ECOLX	Glycosyl transferase		unreviewed
+D2WFK4	D2WFK4_ECOLX	tRNA(fMet)-specific endonuclease VapC (EC 3.1.-.-) (RNase VapC) (Toxin VapC)	vapC	unreviewed
+D2WFH8	D2WFH8_ECOLX	IS629 orfA		unreviewed
+D2WFF3	D2WFF3_ECOLX	IS629 orf1		unreviewed
+D2WFI9	D2WFI9_ECOLX	IS66 transposase		unreviewed
+D2WFH2	D2WFH2_ECOLX	Uncharacterized protein		unreviewed
+D2WFF4	D2WFF4_ECOLX	Plasmid stable inheritance protein		unreviewed
+D2WFK2	D2WFK2_ECOLX	Uncharacterized protein		unreviewed
+D2WFB8	D2WFB8_ECOLX	Uncharacterized protein		unreviewed
+D2WFI0	D2WFI0_ECOLX	Serine protease autotransporter EspP	espP	unreviewed
+D2WFE1	D2WFE1_ECOLX	Site-specific recombinase		unreviewed
+D2WFA3	D2WFA3_ECOLX	Transposition modulator TnpM	tnpM	unreviewed
+D2WFC1	D2WFC1_ECOLX	Mercury resistance protein MerC	merC	unreviewed
+D2WFJ8	D2WFJ8_ECOLX	Alpha-hemolysin translocation ATP-binding protein HlyB	hlyB	unreviewed
+D2WFB7	D2WFB7_ECOLX	EAL domain-containing protein		unreviewed
+D2WFD7	D2WFD7_ECOLX	ISL3 family transposase		unreviewed
+D2WFG9	D2WFG9_ECOLX	Uncharacterized protein		unreviewed
+D2WFA9	D2WFA9_ECOLX	Replication protein C	repC	unreviewed
+D2WFC7	D2WFC7_ECOLX	Replication initiation protein	repZ	unreviewed
+D2WFG0	D2WFG0_ECOLX	Uncharacterized protein		unreviewed
+D2WFE2	D2WFE2_ECOLX	IS66 transposase		unreviewed
+D2WFJ1	D2WFJ1_ECOLX	Putative sulfatase		unreviewed
+D2WFC4	D2WFC4_ECOLX	Mercuric resistance operon regulatory protein	merR	unreviewed
+D2WFG7	D2WFG7_ECOLX	Uncharacterized protein		unreviewed
+D2WFH3	D2WFH3_ECOLX	Uncharacterized protein	nikA	unreviewed
+D2WFF7	D2WFF7_ECOLX	Uncharacterized protein		unreviewed
+D2WFJ6	D2WFJ6_ECOLX	Hemolysin C	hlyC	unreviewed
+D2WFK1	D2WFK1_ECOLX	Resolvase		unreviewed
+D2WFB9	D2WFB9_ECOLX	HTH-type transcriptional regulator MerD (Mercuric resistance protein MerD)	merD	unreviewed
+D2WFH5	D2WFH5_ECOLX	IS600 orf1		unreviewed
+D2WFC0	D2WFC0_ECOLX	Hg(II) reductase (EC 1.16.1.1) (Mercuric reductase)	merA	unreviewed
+D2WFF8	D2WFF8_ECOLX	Methyltransferase (EC 2.1.1.-)		unreviewed
+D2WFH1	D2WFH1_ECOLX	DUF4942 domain-containing protein		unreviewed
+D2WFC2	D2WFC2_ECOLX	Periplasmic mercury ion-binding protein	merP	unreviewed
+D2WFG5	D2WFG5_ECOLX	Uncharacterized protein		unreviewed
+D2WFJ5	D2WFJ5_ECOLX	HTH_21 domain-containing protein		unreviewed
+D2WFF1	D2WFF1_ECOLX	Catalase-peroxidase (CP) (EC 1.11.1.21) (Peroxidase/catalase)	katP	unreviewed
+D2WFE7	D2WFE7_ECOLX	Uncharacterized protein		unreviewed
+D2WFE0	D2WFE0_ECOLX	Uncharacterized protein		unreviewed
+D2WFG2	D2WFG2_ECOLX	Plasmid SOS inhibition protein A	psiA	unreviewed
+D2WFC9	D2WFC9_ECOLX	IS3 orfB		unreviewed
+D2WFJ7	D2WFJ7_ECOLX	Hemolysin A	hlyA	unreviewed
+D2WFH6	D2WFH6_ECOLX	IS600 orf2		unreviewed
+D2WFD6	D2WFD6_ECOLX	ISL3 family transposase		unreviewed
+D2WFI7	D2WFI7_ECOLX	IS66 orf1		unreviewed
+D2WFH7	D2WFH7_ECOLX	IS629 transposase orfB		unreviewed
+D2WFC8	D2WFC8_ECOLX	Toxin B	toxB	unreviewed
+D2WFD3	D2WFD3_ECOLX	IS911 orf2		unreviewed
+D2WFK0	D2WFK0_ECOLX	Colicin-M immunity protein Cmi	cmi	unreviewed
+D2WFB0	D2WFB0_ECOLX	Dihydropteroate synthase (DHPS) (EC 2.5.1.15) (Dihydropteroate pyrophosphorylase)	sul2	unreviewed
+D2WFD2	D2WFD2_ECOLX	Putative transposase		unreviewed
+D2WFF2	D2WFF2_ECOLX	Soluble cytochrome b562		unreviewed
+D2WFK7	D2WFK7_ECOLX	Site-specific recombinase	int	unreviewed
+D2WFI6	D2WFI6_ECOLX	IS91 orf2		unreviewed
+D2WFC3	D2WFC3_ECOLX	Mercuric transport protein MerT (Mercury ion transport protein)	merT	unreviewed
+D2WFF6	D2WFF6_ECOLX	DUF1281_C domain-containing protein		unreviewed
+D2WFD9	D2WFD9_ECOLX	IS91 orf2		unreviewed
+D2WFK5	D2WFK5_ECOLX	Uncharacterized protein		unreviewed
+D2WFA6	D2WFA6_ECOLX	IS26 transposase		unreviewed
+D2WFD8	D2WFD8_ECOLX	IS91 orf		unreviewed
+D2WFI4	D2WFI4_ECOLX	IS66 transposase		unreviewed
+D2WFE4	D2WFE4_ECOLX	IS66 orf1 (Putative transposase)		unreviewed
+D2WFF0	D2WFF0_ECOLX	IS629 orfA		unreviewed
+D2WFE3	D2WFE3_ECOLX	IS66 orf2		unreviewed
+D2WFH9	D2WFH9_ECOLX	IS600 orf1		unreviewed
+D2WFI8	D2WFI8_ECOLX	IS66 orf2		unreviewed
+D2WFE9	D2WFE9_ECOLX	IS629 transposase orfB		unreviewed
+D2WFB6	D2WFB6_ECOLX	Transposase TniA	tniA	unreviewed
+D2WFD0	D2WFD0_ECOLX	DDE_Tnp_IS66_C domain-containing protein		unreviewed
+D2WFG1	D2WFG1_ECOLX	Plasmid SOS inhibition protein B	psiB	unreviewed
+D2WFG3	D2WFG3_ECOLX	Uncharacterized protein		unreviewed
+D2WFK6	D2WFK6_ECOLX	AB hydrolase-1 domain-containing protein		unreviewed
+D2WFC5	D2WFC5_ECOLX	Transcription antitermination factor	traB	unreviewed
+D2WFA1	D2WFA1_ECOLX	Tn3 family transposase	tnpA	unreviewed
+D2WFK3	D2WFK3_ECOLX	Plasmid maintenance protein VagC		unreviewed
+D2WFG6	D2WFG6_ECOLX	Uncharacterized protein		unreviewed
+D2WFF5	D2WFF5_ECOLX	Plasmid segregation protein ParM	parM	unreviewed
+D2WFB3	D2WFB3_ECOLX	IS26 transposase		unreviewed
+D2WFD4	D2WFD4_ECOLX	IS911 orf1		unreviewed
+D2WFJ9	D2WFJ9_ECOLX	Membrane fusion protein (MFP) family protein	hlyD	unreviewed
+D2WFA5	D2WFA5_ECOLX	Dihydrofolate reductase (EC 1.5.1.3)	dfrA5	unreviewed
+D2WFC6	D2WFC6_ECOLX	RepY protein	repY	unreviewed
+D2WFE5	D2WFE5_ECOLX	Transposase		unreviewed
+D2WFG4	D2WFG4_ECOLX	Antirestriction protein		unreviewed
+D2WFD5	D2WFD5_ECOLX	IS66 family transposase orf1		unreviewed
+D2WFA2	D2WFA2_ECOLX	Transposon Tn21 resolvase TnpR	tnpR	unreviewed
+D2WFE6	D2WFE6_ECOLX	RepFIB replication protein A	repA	unreviewed
+D2WFE8	D2WFE8_ECOLX	Uncharacterized protein		unreviewed

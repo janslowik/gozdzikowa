@@ -1,0 +1,33 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+A0A192C640	A0A192C640_ECOLX	MarB (Multiple antibiotic resistance protein MarB)	marB	unreviewed
+A0A192C732	A0A192C732_ECOLX	MarR (Multiple antibiotic resistance transcriptional regulator MarR)	marR	unreviewed
+A0A192CDQ6	A0A192CDQ6_ECOLX	Multidrug resistance protein MdtL	mdtL	unreviewed
+A0A7I0KWK2	A0A7I0KWK2_ECOLX	Aminoglycoside N(3)-acetyltransferase (EC 2.3.1.81)		unreviewed
+A0A192CN55	A0A192CN55_ECOLX	Aminoglycoside 3'-phosphotransferase (EC 2.7.1.95)		unreviewed
+A0A192CNQ1	A0A192CNQ1_ECOLX	Beta-lactamase (EC 3.5.2.6)		unreviewed
+A0A7I0KNG8	A0A7I0KNG8_ECOLX	Beta-lactamase (EC 3.5.2.6)		unreviewed
+A0A192CD96	A0A192CD96_ECOLX	DD-transpeptidase (EC 2.4.1.129) (EC 3.4.16.4) (Penicillin-binding protein 1A) (Penicillin-insensitive transglycosylase) (Penicillin-sensitive transpeptidase) (Peptidoglycan TGase)		unreviewed
+A0A192CK87	A0A192CK87_ECOLX	Multidrug efflux pump accessory protein AcrZ (AcrAB-TolC multidrug efflux pump accessory protein AcrZ) (Acridine resistance protein Z)	acrZ	unreviewed
+A0A192CNQ8	A0A192CNQ8_ECOLX	Beta-lactamase (EC 3.5.2.6)		unreviewed
+A0A192CGR1	A0A192CGR1_ECOLX	Beta-lactamase (EC 3.5.2.6)		unreviewed
+A0A5R8RAM9	A0A5R8RAM9_ECOLX	DD-transpeptidase (EC 2.4.1.129) (EC 3.4.16.4) (Penicillin-binding protein 1A) (Penicillin-insensitive transglycosylase) (Penicillin-sensitive transpeptidase) (Peptidoglycan TGase)		unreviewed
+A0A192CLQ7	A0A192CLQ7_ECOLX	ProP		unreviewed
+A0A5R8T8Q2	A0A5R8T8Q2_ECOLX	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	unreviewed
+A0A192CM44	A0A192CM44_ECOLX	ProP		unreviewed
+A0A192CN33	A0A192CN33_ECOLX	Tetracycline resistance protein		unreviewed
+A0A192CA52	A0A192CA52_ECOLX	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87) (UDP-(beta-L-threo-pentapyranosyl-4''-ulose diphosphate) aminotransferase) (UDP-Ara4O aminotransferase) (UDP-4-amino-4-deoxy-L-arabinose aminotransferase)	arnB	unreviewed
+A0A192CL02	A0A192CL02_ECOLX	Multidrug resistance protein MdtH	mdtH	unreviewed
+A0A5R8R7H5	A0A5R8R7H5_ECOLX	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87) (UDP-(beta-L-threo-pentapyranosyl-4''-ulose diphosphate) aminotransferase) (UDP-Ara4O aminotransferase) (UDP-4-amino-4-deoxy-L-arabinose aminotransferase)	arnB	unreviewed
+A0A5R8T042	A0A5R8T042_ECOLX	Beta-lactamase (EC 3.5.2.6)		unreviewed
+A0A5R8TCR5	A0A5R8TCR5_ECOLX	Multidrug resistance protein MdtH	mdtH	unreviewed
+A0A5R8T180	A0A5R8T180_ECOLX	Multidrug efflux pump accessory protein AcrZ (AcrAB-TolC multidrug efflux pump accessory protein AcrZ) (Acridine resistance protein Z)	acrZ	unreviewed
+A0A5R8RDH9	A0A5R8RDH9_ECOLX	Beta-lactamase (EC 3.5.2.6)	blaEC	unreviewed
+A0A192CDA9	A0A192CDA9_ECOLX	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	unreviewed
+A0A5R8R871	A0A5R8R871_ECOLX	Tetracycline efflux MFS transporter Tet(A)	tet(A)	unreviewed
+A0A192C906	A0A192C906_ECOLX	Bifunctional polymyxin resistance protein ArnA [Includes: UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13) (ArnAFT) (UDP-L-Ara4N formyltransferase); UDP-glucuronic acid oxidase, UDP-4-keto-hexauronic acid decarboxylating (EC 1.1.1.305) (ArnADH) (UDP-GlcUA decarboxylase) (UDP-glucuronic acid dehydrogenase)]	arnA	unreviewed
+A0A192CLG6	A0A192CLG6_ECOLX	Multidrug resistance protein MdtG	mdtG	unreviewed
+A0A192C9V7	A0A192C9V7_ECOLX	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53) (Undecaprenyl-phosphate Ara4FN transferase) (Ara4FN transferase)	arnC	unreviewed
+A0A192CAG4	A0A192CAG4_ECOLX	Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)	arnD	unreviewed
+A0A192CL90	A0A192CL90_ECOLX	Aminoglycoside 3'-phosphotransferase (EC 2.7.1.95)	aph(3'')-Ib	unreviewed
+A0A192CMM8	A0A192CMM8_ECOLX	TetR family transcriptional regulator (Transcriptional regulator, TetR family protein)		unreviewed
+A0A192CK69	A0A192CK69_ECOLX	MacB (Macrolide ABC transporter ATP-binding protein/permease MacB)	macB	unreviewed

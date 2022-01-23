@@ -1,0 +1,14 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+A0A7U9B5N7	A0A7U9B5N7_ECOLX	Multidrug efflux pump accessory protein AcrZ (AcrAB-TolC multidrug efflux pump accessory protein AcrZ) (Acridine resistance protein Z)	acrZ	unreviewed
+A0A7U9B5Z4	A0A7U9B5Z4_ECOLX	Macrolide export ATP-binding/permease protein MacB 1		unreviewed
+A0A7U9B3Z6	A0A7U9B3Z6_ECOLX	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87) (UDP-(beta-L-threo-pentapyranosyl-4''-ulose diphosphate) aminotransferase) (UDP-Ara4O aminotransferase) (UDP-4-amino-4-deoxy-L-arabinose aminotransferase)	arnB	unreviewed
+A0A7U9FX69	A0A7U9FX69_ECOLX	Beta-lactamase (EC 3.5.2.6)		unreviewed
+A0A7U9B273	A0A7U9B273_ECOLX	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	unreviewed
+A0A7U9B451	A0A7U9B451_ECOLX	Bifunctional polymyxin resistance protein ArnA [Includes: UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13) (ArnAFT) (UDP-L-Ara4N formyltransferase); UDP-glucuronic acid oxidase, UDP-4-keto-hexauronic acid decarboxylating (EC 1.1.1.305) (ArnADH) (UDP-GlcUA decarboxylase) (UDP-glucuronic acid dehydrogenase)]	arnA	unreviewed
+A0A7U9FXR9	A0A7U9FXR9_ECOLX	DD-transpeptidase (EC 2.4.1.129) (EC 3.4.16.4) (Penicillin-binding protein 1A) (Penicillin-insensitive transglycosylase) (Penicillin-sensitive transpeptidase) (Peptidoglycan TGase)		unreviewed
+A0A7U9B2N5	A0A7U9B2N5_ECOLX	Multiple antibiotic resistance protein MarA		unreviewed
+A0A7U9B6B1	A0A7U9B6B1_ECOLX	Multidrug resistance protein MdtG	mdtG	unreviewed
+A0A7U9B5D5	A0A7U9B5D5_ECOLX	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53) (Undecaprenyl-phosphate Ara4FN transferase) (Ara4FN transferase)	arnC	unreviewed
+A0A7U9G0B1	A0A7U9G0B1_ECOLX	Multiple antibiotic resistance protein MarR		unreviewed
+A0A7U9B535	A0A7U9B535_ECOLX	Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)	arnD	unreviewed
+A0A7U9FY46	A0A7U9FY46_ECOLX	Multidrug resistance protein MdtL	mdtL	unreviewed

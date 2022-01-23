@@ -1,0 +1,17 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+A0A0E2L675	A0A0E2L675_ECOU3	Multiple antibiotic resistance protein marR		unreviewed
+A0A0E2L5D0	A0A0E2L5D0_ECOU3	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53) (Undecaprenyl-phosphate Ara4FN transferase) (Ara4FN transferase)	arnC	unreviewed
+A0A0E2KZR5	A0A0E2KZR5_ECOU3	DD-transpeptidase (EC 2.4.1.129) (EC 3.4.16.4) (Penicillin-binding protein 1A) (Penicillin-insensitive transglycosylase) (Penicillin-sensitive transpeptidase) (Peptidoglycan TGase)		unreviewed
+A0A0E2L549	A0A0E2L549_ECOU3	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87) (UDP-(beta-L-threo-pentapyranosyl-4''-ulose diphosphate) aminotransferase) (UDP-Ara4O aminotransferase) (UDP-4-amino-4-deoxy-L-arabinose aminotransferase)	arnB	unreviewed
+A0A0E2L5V4	A0A0E2L5V4_ECOU3	Bifunctional polymyxin resistance protein ArnA [Includes: UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13) (ArnAFT) (UDP-L-Ara4N formyltransferase); UDP-glucuronic acid oxidase, UDP-4-keto-hexauronic acid decarboxylating (EC 1.1.1.305) (ArnADH) (UDP-GlcUA decarboxylase) (UDP-glucuronic acid dehydrogenase)]	arnA	unreviewed
+A0A0E2L7W2	A0A0E2L7W2_ECOU3	Multidrug efflux pump accessory protein AcrZ (AcrAB-TolC multidrug efflux pump accessory protein AcrZ) (Acridine resistance protein Z)	acrZ	unreviewed
+A0A0E2L5P8	A0A0E2L5P8_ECOU3	Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)	arnD	unreviewed
+A0A0E2L5N8	A0A0E2L5N8_ECOU3	Multiple antibiotic resistance protein MarB		unreviewed
+A0A0E2LGN3	A0A0E2LGN3_ECOU3	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	unreviewed
+A0A0E2LLL2	A0A0E2LLL2_ECOU3	Multidrug resistance protein MdtH	mdtH	unreviewed
+A0A0E2L7F1	A0A0E2L7F1_ECOU3	Multidrug resistance protein MdtG	mdtG	unreviewed
+A0A0E2LKH2	A0A0E2LKH2_ECOU3	Multiple antibiotic resistance protein marA		unreviewed
+A0A0E2LBK7	A0A0E2LBK7_ECOU3	Beta-lactamase (EC 3.5.2.6)		unreviewed
+A0A0E2L804	A0A0E2L804_ECOU3	Macrolide export ATP-binding/permease MacB		unreviewed
+A0A0E2KZW4	A0A0E2KZW4_ECOU3	Multidrug resistance protein MdtL	mdtL	unreviewed
+A0A0E2KWB0	A0A0E2KWB0_ECOU3	Macrolide export ATP-binding/permease MacB 2		unreviewed

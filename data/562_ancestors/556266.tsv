@@ -1,0 +1,16 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+F4NFW8	F4NFW8_ECOLX	Multiple antibiotic resistance protein MarR	marR	unreviewed
+F4NDQ3	F4NDQ3_ECOLX	Bifunctional polymyxin resistance protein ArnA [Includes: UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13) (ArnAFT) (UDP-L-Ara4N formyltransferase); UDP-glucuronic acid oxidase, UDP-4-keto-hexauronic acid decarboxylating (EC 1.1.1.305) (ArnADH) (UDP-GlcUA decarboxylase) (UDP-glucuronic acid dehydrogenase)]	arnA	unreviewed
+F4NP43	F4NP43_ECOLX	Macrolide export ATP-binding/permease protein MacB (EC 3.6.3.-)	macB	unreviewed
+F4NI78	F4NI78_ECOLX	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	unreviewed
+F4NKF3	F4NKF3_ECOLX	Beta-lactamase (EC 3.5.2.6)		unreviewed
+F4NFW6	F4NFW6_ECOLX	Putative multiple antibiotic resistance protein MarB		unreviewed
+F4NDQ4	F4NDQ4_ECOLX	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53) (Undecaprenyl-phosphate Ara4FN transferase) (Ara4FN transferase)	arnC	unreviewed
+F4NDQ2	F4NDQ2_ECOLX	Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)	arnD	unreviewed
+F4NPL3	F4NPL3_ECOLX	Multidrug efflux pump accessory protein AcrZ (AcrAB-TolC multidrug efflux pump accessory protein AcrZ) (Acridine resistance protein Z)	acrZ	unreviewed
+F4NPW7	F4NPW7_ECOLX	Multidrug resistance protein MdtL	mdtL	unreviewed
+F4NNA7	F4NNA7_ECOLX	DD-transpeptidase (EC 2.4.1.129) (EC 3.4.16.4) (Penicillin-binding protein 1A) (Penicillin-insensitive transglycosylase) (Penicillin-sensitive transpeptidase) (Peptidoglycan TGase)	mrcA	unreviewed
+F4ND66	F4ND66_ECOLX	Multidrug resistance protein MdtH	mdtH	unreviewed
+F4NFW7	F4NFW7_ECOLX	Multiple antibiotic resistance protein MarA	marA	unreviewed
+F4NDF7	F4NDF7_ECOLX	Multidrug resistance protein MdtG	mdtG	unreviewed
+F4NDQ5	F4NDQ5_ECOLX	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87) (UDP-(beta-L-threo-pentapyranosyl-4''-ulose diphosphate) aminotransferase) (UDP-Ara4O aminotransferase) (UDP-4-amino-4-deoxy-L-arabinose aminotransferase)	arnB	unreviewed

@@ -1,0 +1,20 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+A0A7U9BQN9	A0A7U9BQN9_ECOLX	Multiple antibiotic resistance protein MarA		unreviewed
+A0A7U9G894	A0A7U9G894_ECOLX	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	unreviewed
+A0A7U9BN01	A0A7U9BN01_ECOLX	Multiple antibiotic resistance protein MarR		unreviewed
+A0A7U9G978	A0A7U9G978_ECOLX	Macrolide export ATP-binding/permease protein MacB 1		unreviewed
+A0A7U9G9V1	A0A7U9G9V1_ECOLX	Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)	arnD	unreviewed
+A0A7U9BMZ3	A0A7U9BMZ3_ECOLX	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87) (UDP-(beta-L-threo-pentapyranosyl-4''-ulose diphosphate) aminotransferase) (UDP-Ara4O aminotransferase) (UDP-4-amino-4-deoxy-L-arabinose aminotransferase)	arnB	unreviewed
+A0A7U9G8E0	A0A7U9G8E0_ECOLX	DD-transpeptidase (EC 2.4.1.129) (EC 3.4.16.4) (Penicillin-binding protein 1A) (Penicillin-insensitive transglycosylase) (Penicillin-sensitive transpeptidase) (Peptidoglycan TGase)		unreviewed
+A0A7U9G8R8	A0A7U9G8R8_ECOLX	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53) (Undecaprenyl-phosphate Ara4FN transferase) (Ara4FN transferase)	arnC	unreviewed
+A0A7U9BSY4	A0A7U9BSY4_ECOLX	Beta-lactamase (EC 3.5.2.6)		unreviewed
+A0A7U9BRP8	A0A7U9BRP8_ECOLX	Tetracycline resistance protein, class A (TetA(A))		unreviewed
+A0A7U9BLR6	A0A7U9BLR6_ECOLX	Multidrug resistance protein MdtL	mdtL	unreviewed
+A0A7U9G9E1	A0A7U9G9E1_ECOLX	Multidrug resistance protein MdtG	mdtG	unreviewed
+A0A7U9G8S5	A0A7U9G8S5_ECOLX	Bifunctional polymyxin resistance protein ArnA [Includes: UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13) (ArnAFT) (UDP-L-Ara4N formyltransferase); UDP-glucuronic acid oxidase, UDP-4-keto-hexauronic acid decarboxylating (EC 1.1.1.305) (ArnADH) (UDP-GlcUA decarboxylase) (UDP-glucuronic acid dehydrogenase)]	arnA	unreviewed
+A0A7U9BNF2	A0A7U9BNF2_ECOLX	Multidrug resistance protein MdtH	mdtH	unreviewed
+A0A7U9BQN6	A0A7U9BQN6_ECOLX	Beta-lactamase (EC 3.5.2.6)		unreviewed
+A0A7U9G6T4	A0A7U9G6T4_ECOLX	Tetracycline resistance protein, class C (TetA(C))		unreviewed
+A0A7U9BP36	A0A7U9BP36_ECOLX	Multidrug efflux pump accessory protein AcrZ (AcrAB-TolC multidrug efflux pump accessory protein AcrZ) (Acridine resistance protein Z)	acrZ	unreviewed
+A0A7U9GBP0	A0A7U9GBP0_ECOLX	Tetracycline repressor protein class A from transposon 1721		unreviewed
+A0A7U9G6Y1	A0A7U9G6Y1_ECOLX	Macrolide export ATP-binding/permease protein MacB 2		unreviewed

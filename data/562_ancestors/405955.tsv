@@ -1,0 +1,18 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+A1AFX9	UPPP_ECOK1	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	reviewed
+A1ADA8	ARND_ECOK1	Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)	arnD	reviewed
+A1ADA7	ARNA_ECOK1	Bifunctional polymyxin resistance protein ArnA [Includes: UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13) (ArnAFT) (UDP-L-Ara4N formyltransferase); UDP-glucuronic acid oxidase, UDP-4-keto-hexauronic acid decarboxylating (EC 1.1.1.305) (ArnADH) (UDP-GlcUA decarboxylase) (UDP-glucuronic acid dehydrogenase)]	arnA	reviewed
+A1ADA5	ARNB_ECOK1	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87) (UDP-(beta-L-threo-pentapyranosyl-4''-ulose diphosphate) aminotransferase) (UDP-Ara4O aminotransferase) (UDP-4-amino-4-deoxy-L-arabinose aminotransferase)	arnB	reviewed
+A1ADA6	ARNC_ECOK1	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53) (Undecaprenyl-phosphate Ara4FN transferase) (Ara4FN transferase)	arnC	reviewed
+A1AHP3	MDTL_ECOK1	Multidrug resistance protein MdtL	mdtL	reviewed
+P0C2H3	MACB2_ECOK1	Macrolide export ATP-binding/permease protein MacB 2 (EC 7.6.2.-)	macB2	reviewed
+A1A9U9	MDTG_ECOK1	Multidrug resistance protein MdtG	mdtG	reviewed
+A1A9W0	MDTH_ECOK1	Multidrug resistance protein MdtH	mdtH	reviewed
+A1A9B7	MACB1_ECOK1	Macrolide export ATP-binding/permease protein MacB 1 (EC 7.6.2.-)	macB1	reviewed
+A0A0H2YZ26	A0A0H2YZ26_ECOK1	Multiple antibiotic resistance protein MarR	marR	unreviewed
+A0A0H2Z3V7	A0A0H2Z3V7_ECOK1	DD-transpeptidase (EC 2.4.1.129) (EC 3.4.16.4) (Penicillin-binding protein 1A) (Penicillin-insensitive transglycosylase) (Penicillin-sensitive transpeptidase) (Peptidoglycan TGase)	mrcA	unreviewed
+A0A0H2YZM0	A0A0H2YZM0_ECOK1	Multiple antibiotic resistance protein MarA	marA	unreviewed
+A0A0H2Z543	A0A0H2Z543_ECOK1	Beta-lactamase (EC 3.5.2.6)	ampC	unreviewed
+A0A0H2XKJ9	A0A0H2XKJ9_ECOK1	Aminoglycoside N(3)-acetyltransferase (EC 2.3.1.81)	aac3-VI	unreviewed
+A0A0H2XLL9	A0A0H2XLL9_ECOK1	TetA	tetA	unreviewed
+A0A0H2XJP6	A0A0H2XJP6_ECOK1	TetR	tetR	unreviewed

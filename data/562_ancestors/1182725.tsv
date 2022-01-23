@@ -1,0 +1,16 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+L4J574	L4J574_ECOLX	Bifunctional polymyxin resistance protein ArnA [Includes: UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13) (ArnAFT) (UDP-L-Ara4N formyltransferase); UDP-glucuronic acid oxidase, UDP-4-keto-hexauronic acid decarboxylating (EC 1.1.1.305) (ArnADH) (UDP-GlcUA decarboxylase) (UDP-glucuronic acid dehydrogenase)]	arnA	unreviewed
+L4JAI1	L4JAI1_ECOLX	Multiple antibiotic resistance protein marR		unreviewed
+L4JDM2	L4JDM2_ECOLX	Multidrug efflux pump accessory protein AcrZ (AcrAB-TolC multidrug efflux pump accessory protein AcrZ) (Acridine resistance protein Z)	acrZ	unreviewed
+L4J6K3	L4J6K3_ECOLX	Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)	arnD	unreviewed
+L4J083	L4J083_ECOLX	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	unreviewed
+L4JJI2	L4JJI2_ECOLX	Beta-lactamase (EC 3.5.2.6)		unreviewed
+L4JB51	L4JB51_ECOLX	Multiple antibiotic resistance protein marA		unreviewed
+L4J5B6	L4J5B6_ECOLX	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87) (UDP-(beta-L-threo-pentapyranosyl-4''-ulose diphosphate) aminotransferase) (UDP-Ara4O aminotransferase) (UDP-4-amino-4-deoxy-L-arabinose aminotransferase)	arnB	unreviewed
+L4IYY9	L4IYY9_ECOLX	DD-transpeptidase (EC 2.4.1.129) (EC 3.4.16.4) (Penicillin-binding protein 1A) (Penicillin-insensitive transglycosylase) (Penicillin-sensitive transpeptidase) (Peptidoglycan TGase)		unreviewed
+L4JAU2	L4JAU2_ECOLX	Multidrug resistance protein MdtG	mdtG	unreviewed
+L4JCU8	L4JCU8_ECOLX	Multidrug resistance protein MdtH	mdtH	unreviewed
+L4J9A4	L4J9A4_ECOLX	Multiple antibiotic resistance protein MarB		unreviewed
+L4JDY1	L4JDY1_ECOLX	Macrolide export ATP-binding/permease MacB		unreviewed
+L4IVT7	L4IVT7_ECOLX	Multidrug resistance protein MdtL	mdtL	unreviewed
+L4J674	L4J674_ECOLX	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53) (Undecaprenyl-phosphate Ara4FN transferase) (Ara4FN transferase)	arnC	unreviewed

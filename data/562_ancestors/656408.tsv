@@ -1,0 +1,15 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+F4VL30	F4VL30_ECOLX	Multidrug resistance protein MdtL	mdtL	unreviewed
+F4VBI6	F4VBI6_ECOLX	Multidrug efflux pump accessory protein AcrZ (AcrAB-TolC multidrug efflux pump accessory protein AcrZ) (Acridine resistance protein Z)	acrZ	unreviewed
+F4VJ57	F4VJ57_ECOLX	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	unreviewed
+F4VE23	F4VE23_ECOLX	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53) (Undecaprenyl-phosphate Ara4FN transferase) (Ara4FN transferase)	arnC	unreviewed
+F4VCQ3	F4VCQ3_ECOLX	Macrolide export ATP-binding/permease protein MacB		unreviewed
+F4VFD6	F4VFD6_ECOLX	Multiple antibiotic resistance protein MarA		unreviewed
+F4VD92	F4VD92_ECOLX	Multidrug resistance protein MdtH	mdtH	unreviewed
+F4VK28	F4VK28_ECOLX	DD-transpeptidase (EC 2.4.1.129) (EC 3.4.16.4) (Penicillin-binding protein 1A) (Penicillin-insensitive transglycosylase) (Penicillin-sensitive transpeptidase) (Peptidoglycan TGase)		unreviewed
+F4VD78	F4VD78_ECOLX	Multidrug resistance protein MdtG	mdtG	unreviewed
+F4VE22	F4VE22_ECOLX	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87) (UDP-(beta-L-threo-pentapyranosyl-4''-ulose diphosphate) aminotransferase) (UDP-Ara4O aminotransferase) (UDP-4-amino-4-deoxy-L-arabinose aminotransferase)	arnB	unreviewed
+F4VME6	F4VME6_ECOLX	Beta-lactamase (EC 3.5.2.6)		unreviewed
+F4VE24	F4VE24_ECOLX	Bifunctional polymyxin resistance protein ArnA [Includes: UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13) (ArnAFT) (UDP-L-Ara4N formyltransferase); UDP-glucuronic acid oxidase, UDP-4-keto-hexauronic acid decarboxylating (EC 1.1.1.305) (ArnADH) (UDP-GlcUA decarboxylase) (UDP-glucuronic acid dehydrogenase)]	arnA	unreviewed
+F4VFD5	F4VFD5_ECOLX	Multiple antibiotic resistance protein MarR		unreviewed
+F4VE25	F4VE25_ECOLX	Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)	arnD	unreviewed

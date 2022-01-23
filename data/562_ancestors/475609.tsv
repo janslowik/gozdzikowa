@@ -1,0 +1,17 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+J7R3C8	J7R3C8_ECOLX	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53) (Undecaprenyl-phosphate Ara4FN transferase) (Ara4FN transferase)	b2254	unreviewed
+J7RL49	J7RL49_ECOLX	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	bacA	unreviewed
+J7RWJ9	J7RWJ9_ECOLX	Multidrug resistance protein MdtL	yidY	unreviewed
+J7QN85	J7QN85_ECOLX	Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)	b2256	unreviewed
+J7RGE6	J7RGE6_ECOLX	Multiple antibiotic resistance protein repressor of mar operon	marR	unreviewed
+J7RQ99	J7RQ99_ECOLX	Multidrug resistance protein MdtH	yceL	unreviewed
+J7QUC2	J7QUC2_ECOLX	Beta-lactamase (EC 3.5.2.6)	ampC	unreviewed
+J7RT24	J7RT24_ECOLX	Bifunctional polymyxin resistance protein ArnA [Includes: UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13) (ArnAFT) (UDP-L-Ara4N formyltransferase); UDP-glucuronic acid oxidase, UDP-4-keto-hexauronic acid decarboxylating (EC 1.1.1.305) (ArnADH) (UDP-GlcUA decarboxylase) (UDP-glucuronic acid dehydrogenase)]	b2255	unreviewed
+J7RRB4	J7RRB4_ECOLX	Multiple antibiotic resistance protein	marB	unreviewed
+B9K6J4	B9K6J4_ECOLX	EtsB	etsB	unreviewed
+J7R191	J7R191_ECOLX	Multiple antibiotic resistance transcriptional activator of defense systems	marA	unreviewed
+J7RIM3	J7RIM3_ECOLX	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87) (UDP-(beta-L-threo-pentapyranosyl-4''-ulose diphosphate) aminotransferase) (UDP-Ara4O aminotransferase) (UDP-4-amino-4-deoxy-L-arabinose aminotransferase)	b2253	unreviewed
+J7RLX5	J7RLX5_ECOLX	DD-transpeptidase (EC 2.4.1.129) (EC 3.4.16.4) (Penicillin-binding protein 1A) (Penicillin-insensitive transglycosylase) (Penicillin-sensitive transpeptidase) (Peptidoglycan TGase)	mrcA	unreviewed
+J7QK52	J7QK52_ECOLX	Putative ATP-binding component of a transport system	ybjZ	unreviewed
+J7RF68	J7RF68_ECOLX	Multidrug resistance protein MdtG	yceE	unreviewed
+J7QYZ3	J7QYZ3_ECOLX	Multidrug efflux pump accessory protein AcrZ (AcrAB-TolC multidrug efflux pump accessory protein AcrZ) (Acridine resistance protein Z)	b0762	unreviewed

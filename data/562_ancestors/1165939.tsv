@@ -1,0 +1,21 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+K4WP77	K4WP77_ECOLX	Multidrug resistance protein MdtG	mdtG	unreviewed
+K4XXH3	K4XXH3_ECOLX	Multidrug resistance protein MdtH	mdtH	unreviewed
+K4VXS6	K4VXS6_ECOLX	Macrolide transporter ATP-binding /permease protein		unreviewed
+K4W0N1	K4W0N1_ECOLX	Tetracycline resistance protein, class E		unreviewed
+K4X331	K4X331_ECOLX	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87) (UDP-(beta-L-threo-pentapyranosyl-4''-ulose diphosphate) aminotransferase) (UDP-Ara4O aminotransferase) (UDP-4-amino-4-deoxy-L-arabinose aminotransferase)	arnB	unreviewed
+K4WA46	K4WA46_ECOLX	DD-transpeptidase (EC 2.4.1.129) (EC 3.4.16.4) (Penicillin-binding protein 1A) (Penicillin-insensitive transglycosylase) (Penicillin-sensitive transpeptidase) (Peptidoglycan TGase)	mrcA	unreviewed
+K4XWV1	K4XWV1_ECOLX	Aminoglycoside 3'-phosphotransferase (EC 2.7.1.95)		unreviewed
+K4XWH9	K4XWH9_ECOLX	Multidrug efflux pump accessory protein AcrZ (AcrAB-TolC multidrug efflux pump accessory protein AcrZ) (Acridine resistance protein Z)	acrZ	unreviewed
+K4Y4Z2	K4Y4Z2_ECOLX	Beta-lactamase (EC 3.5.2.6)	ampC	unreviewed
+K4X111	K4X111_ECOLX	Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)	arnD	unreviewed
+K4X839	K4X839_ECOLX	Beta-lactamase (EC 3.5.2.6)	ampC	unreviewed
+K4X1I9	K4X1I9_ECOLX	MFS domain-containing protein		unreviewed
+K4Y002	K4Y002_ECOLX	Beta-lactamase (EC 3.5.2.6)		unreviewed
+K4Y2D8	K4Y2D8_ECOLX	Bifunctional polymyxin resistance protein ArnA [Includes: UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13) (ArnAFT) (UDP-L-Ara4N formyltransferase); UDP-glucuronic acid oxidase, UDP-4-keto-hexauronic acid decarboxylating (EC 1.1.1.305) (ArnADH) (UDP-GlcUA decarboxylase) (UDP-glucuronic acid dehydrogenase)]	arnA	unreviewed
+K4Y5E0	K4Y5E0_ECOLX	Multidrug resistance protein MdtL	mdtL	unreviewed
+K4X300	K4X300_ECOLX	Tetracycline repressor protein		unreviewed
+K4VWQ8	K4VWQ8_ECOLX	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53) (Undecaprenyl-phosphate Ara4FN transferase) (Ara4FN transferase)	arnC	unreviewed
+K4WW78	K4WW78_ECOLX	Aminoglycoside 3'-phosphotransferase (EC 2.7.1.95)		unreviewed
+K4WWT1	K4WWT1_ECOLX	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	unreviewed
+K4X7I7	K4X7I7_ECOLX	Tetracycline repressor protein TetR		unreviewed

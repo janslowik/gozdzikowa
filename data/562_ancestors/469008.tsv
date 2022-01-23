@@ -1,0 +1,14 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+A0A140N587	A0A140N587_ECOBD	Bifunctional polymyxin resistance protein ArnA [Includes: UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13) (ArnAFT) (UDP-L-Ara4N formyltransferase); UDP-glucuronic acid oxidase, UDP-4-keto-hexauronic acid decarboxylating (EC 1.1.1.305) (ArnADH) (UDP-GlcUA decarboxylase) (UDP-glucuronic acid dehydrogenase)]	arnA	unreviewed
+A0A140NCV5	A0A140NCV5_ECOBD	Multidrug resistance protein MdtG	mdtG	unreviewed
+A0A140N497	A0A140N497_ECOBD	Major facilitator superfamily MFS_1		unreviewed
+A0A140N8C4	A0A140N8C4_ECOBD	Multidrug resistance protein MdtH	mdtH	unreviewed
+A0A140N9N7	A0A140N9N7_ECOBD	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87) (UDP-(beta-L-threo-pentapyranosyl-4''-ulose diphosphate) aminotransferase) (UDP-Ara4O aminotransferase) (UDP-4-amino-4-deoxy-L-arabinose aminotransferase)	arnB	unreviewed
+A0A140N8W0	A0A140N8W0_ECOBD	ABC transporter related		unreviewed
+A0A140SSB7	A0A140SSB7_ECOBD	Multidrug resistance protein MdtL	mdtL	unreviewed
+A0A140N779	A0A140N779_ECOBD	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53) (Undecaprenyl-phosphate Ara4FN transferase) (Ara4FN transferase)	arnC	unreviewed
+A0A140N6N8	A0A140N6N8_ECOBD	Transcriptional regulator, TetR family		unreviewed
+A0A140N694	A0A140N694_ECOBD	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	unreviewed
+A0A140N7R5	A0A140N7R5_ECOBD	Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)	arnD	unreviewed
+A0A140N5D2	A0A140N5D2_ECOBD	DD-transpeptidase (EC 2.4.1.129) (EC 3.4.16.4) (Penicillin-binding protein 1A) (Penicillin-insensitive transglycosylase) (Penicillin-sensitive transpeptidase) (Peptidoglycan TGase)		unreviewed
+A0A140NEM2	A0A140NEM2_ECOBD	Beta-lactamase (EC 3.5.2.6)		unreviewed

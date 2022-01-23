@@ -1,0 +1,15 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+B7N061	UPPP_ECO81	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	reviewed
+B7MXT5	ARNC_ECO81	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53) (Undecaprenyl-phosphate Ara4FN transferase) (Ara4FN transferase)	arnC	reviewed
+B7MXT6	ARNA_ECO81	Bifunctional polymyxin resistance protein ArnA [Includes: UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13) (ArnAFT) (UDP-L-Ara4N formyltransferase); UDP-glucuronic acid oxidase, UDP-4-keto-hexauronic acid decarboxylating (EC 1.1.1.305) (ArnADH) (UDP-GlcUA decarboxylase) (UDP-glucuronic acid dehydrogenase)]	arnA	reviewed
+B7MXT4	ARNB_ECO81	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87) (UDP-(beta-L-threo-pentapyranosyl-4''-ulose diphosphate) aminotransferase) (UDP-Ara4O aminotransferase) (UDP-4-amino-4-deoxy-L-arabinose aminotransferase)	arnB	reviewed
+B7MXT7	ARND_ECO81	Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)	arnD	reviewed
+B7N2F5	MDTL_ECO81	Multidrug resistance protein MdtL	mdtL	reviewed
+B7MTI5	MDTG_ECO81	Multidrug resistance protein MdtG	mdtG	reviewed
+B7MTJ6	MDTH_ECO81	Multidrug resistance protein MdtH	mdtH	reviewed
+B7N128	B7N128_ECO81	DD-transpeptidase (EC 2.4.1.129) (EC 3.4.16.4) (Penicillin-binding protein 1A) (Penicillin-insensitive transglycosylase) (Penicillin-sensitive transpeptidase) (Peptidoglycan TGase)	mrcA	unreviewed
+B7MUT9	B7MUT9_ECO81	DNA-binding transcriptional repressor of multiple antibiotic resistance	marR	unreviewed
+B7MPP7	B7MPP7_ECO81	Multidrug efflux pump accessory protein AcrZ (AcrAB-TolC multidrug efflux pump accessory protein AcrZ) (Acridine resistance protein Z)	ybhT	unreviewed
+B7MUU0	B7MUU0_ECO81	DNA-binding transcriptional dual activator of multiple antibiotic resistance	marA	unreviewed
+B7MRT6	B7MRT6_ECO81	Fused macrolide transporter subunits of ABC superfamily: ATP-binding component membrane component	macB	unreviewed
+B7MSW7	B7MSW7_ECO81	Beta-lactamase (EC 3.5.2.6)	ampC	unreviewed
