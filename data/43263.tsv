@@ -1,0 +1,33 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+A0A7W7NIX2	A0A7W7NIX2_PSEAC	DD-transpeptidase (EC 2.4.1.129) (EC 3.4.16.4) (Penicillin-binding protein 1A) (Penicillin-insensitive transglycosylase) (Penicillin-sensitive transpeptidase) (Peptidoglycan TGase)		unreviewed
+A0A7W7NI56	A0A7W7NI56_PSEAC	Aminoglycoside 3'-phosphotransferase (EC 2.7.1.95)		unreviewed
+U2Z2S8	U2Z2S8_PSEA4	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	unreviewed
+U3AV18	U3AV18_PSEA4	Beta-lactamase (EC 3.5.2.6)	ampC	unreviewed
+I1V4S2	I1V4S2_PSEAC	DNA topoisomerase (ATP-hydrolyzing) (EC 5.6.2.2) (Fragment)	gyrB	unreviewed
+U2YYZ6	U2YYZ6_PSEA4	DD-transpeptidase (EC 2.4.1.129) (EC 3.4.16.4) (Penicillin-binding protein 1A) (Penicillin-insensitive transglycosylase) (Penicillin-sensitive transpeptidase) (Peptidoglycan TGase)	mrcA	unreviewed
+A0A5C7VYW1	A0A5C7VYW1_PSEAC	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	unreviewed
+A0A2V4LXE9	A0A2V4LXE9_PSEAC	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	unreviewed
+A0A1N6WNC9	A0A1N6WNC9_PSEAC	Beta-lactamase (EC 3.5.2.6)		unreviewed
+A0A142ISB3	A0A142ISB3_PSEAC	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	unreviewed
+A0A1N6WWG1	A0A1N6WWG1_PSEAC	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	unreviewed
+A0A5C7VVM7	A0A5C7VVM7_PSEAC	Beta-lactamase (EC 3.5.2.6)		unreviewed
+A0A142IQX6	A0A142IQX6_PSEAC	Beta-lactamase (EC 3.5.2.6)	ampC	unreviewed
+A0A7R7Z9T2	A0A7R7Z9T2_PSEAC	Beta-lactamase (EC 3.5.2.6)	bla_2	unreviewed
+A0A7W7NLE1	A0A7W7NLE1_PSEAC	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	unreviewed
+A0A7W7NFX1	A0A7W7NFX1_PSEAC	Virginiamycin B lyase (EC 4.2.99.-) (Streptogramin B lyase)		unreviewed
+A0A1N6P6G3	A0A1N6P6G3_PSEAC	DD-transpeptidase (EC 2.4.1.129) (EC 3.4.16.4) (Penicillin-binding protein 1A) (Penicillin-insensitive transglycosylase) (Penicillin-sensitive transpeptidase) (Peptidoglycan TGase)		unreviewed
+A0A2V4LFN6	A0A2V4LFN6_PSEAC	Beta-lactamase (EC 3.5.2.6)	blaOXA	unreviewed
+A0A142IMW4	A0A142IMW4_PSEAC	DD-transpeptidase (EC 2.4.1.129) (EC 3.4.16.4) (Penicillin-binding protein 1A) (Penicillin-insensitive transglycosylase) (Penicillin-sensitive transpeptidase) (Peptidoglycan TGase)		unreviewed
+A0A7W7NIF1	A0A7W7NIF1_PSEAC	Macrolide transport system ATP-binding/permease protein (EC 3.6.3.-)		unreviewed
+A0A2V4KV18	A0A2V4KV18_PSEAC	DD-transpeptidase (EC 2.4.1.129) (EC 3.4.16.4) (Penicillin-binding protein 1A) (Penicillin-insensitive transglycosylase) (Penicillin-sensitive transpeptidase) (Peptidoglycan TGase)		unreviewed
+A0A7U9F8A8	A0A7U9F8A8_PSEAC	Macrolide ABC transporter ATP-binding protein		unreviewed
+A0A7U9EYW7	A0A7U9EYW7_PSEAC	DD-transpeptidase (EC 2.4.1.129) (EC 3.4.16.4) (Penicillin-binding protein 1A) (Penicillin-insensitive transglycosylase) (Penicillin-sensitive transpeptidase) (Peptidoglycan TGase)		unreviewed
+A0A7U9F422	A0A7U9F422_PSEAC	HTH tetR-type domain-containing protein		unreviewed
+A0A7U9HWP7	A0A7U9HWP7_PSEAC	Virginiamycin B lyase (EC 4.2.99.-) (Streptogramin B lyase)		unreviewed
+A0A7U9F7N2	A0A7U9F7N2_PSEAC	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	unreviewed
+A0A7U9F6U6	A0A7U9F6U6_PSEAC	Aminoglycoside 3'-phosphotransferase (EC 2.7.1.95)		unreviewed
+A0A7R7UV66	A0A7R7UV66_PSEAC	Beta-lactamase (EC 3.5.2.6)	ampC	unreviewed
+I1V4P4	I1V4P4_PSEAC	DNA-directed RNA polymerase (EC 2.7.7.6) (Fragment)	rpoB	unreviewed
+A0A7R7USP1	A0A7R7USP1_PSEAC	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	unreviewed
+A0A7R7USE5	A0A7R7USE5_PSEAC	DD-transpeptidase (EC 2.4.1.129) (EC 3.4.16.4) (Penicillin-binding protein 1A) (Penicillin-insensitive transglycosylase) (Penicillin-sensitive transpeptidase) (Peptidoglycan TGase)	mrcA	unreviewed
+I1V4L5	I1V4L5_PSEAC	RNA polymerase subunit D (Fragment)	rpoD	unreviewed

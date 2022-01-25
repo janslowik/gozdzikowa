@@ -1,0 +1,29 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+Q2G2U6	WALR_STAA8	Transcriptional regulatory protein WalR	walR	reviewed
+Q2G2I1	TCAA_STAA8	Membrane-associated protein TcaA	tcaA	reviewed
+Q2FZ66	RLMN_STAA8	Probable dual-specificity RNA methyltransferase RlmN (EC 2.1.1.192) (23S rRNA (adenine(2503)-C(2))-methyltransferase) (23S rRNA m2A2503 methyltransferase) (Ribosomal RNA large subunit methyltransferase N) (tRNA (adenine(37)-C(2))-methyltransferase) (tRNA m2A37 methyltransferase)	rlmN	reviewed
+Q2G2U4	WALK_STAA8	Sensor protein kinase WalK (EC 2.7.13.3)	walK	reviewed
+Q2G0B4	UPPP_STAA8	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	reviewed
+Q2G0D9	GRAS_STAA8	Sensor histidine kinase GraS (EC 2.7.13.3) (Glycopeptide resistance-associated protein S)	graS	reviewed
+Q2FYS4	PARC_STAA8	DNA topoisomerase 4 subunit A (EC 5.6.2.2) (Topoisomerase IV subunit A)	parC	reviewed
+Q2FVT3	FOSB_STAA8	Metallothiol transferase FosB (EC 2.5.1.-) (Fosfomycin resistance protein)	fosB	reviewed
+Q2FVZ4	FEMX_STAA8	Lipid II:glycine glycyltransferase (EC 2.3.2.16) (Factor essential for expression of methicillin resistance X)	femX	reviewed
+Q2FYR2	FEMA_STAA8	Aminoacyltransferase FemA (EC 2.3.2.17) (Factor essential for expression of methicillin resistance A) (N-acetylmuramoyl-L-alanyl-D-glutamyl-L-lysyl-(N6-glycyl)-D-alanyl-D-alanine-diphosphoundecaprenyl-N-acetylglucosamine:glycine glycyltransferase)	femA	reviewed
+Q2FYR1	FEMB_STAA8	Aminoacyltransferase FemB (EC 2.3.2.18) (Factor essential for expression of methicillin resistance B) (N-acetylmuramoyl-L-alanyl-D-glutamyl-L-lysyl-(N6-triglycine)-D-alanyl-D-alanine-diphosphoundecaprenyl-N-acetylglucosamine:glycine glycyltransferase)	femB	reviewed
+Q2FZK3	FMTA_STAA8	Teichoic acid D-alanine hydrolase (EC 3.1.1.103) (Teichoic acid D-alanine esterase)	fmtA	reviewed
+Q2G2M2	MPRF_STAA8	Phosphatidylglycerol lysyltransferase (EC 2.3.2.3) (Lysylphosphatidylglycerol synthase) (LPG synthase) (Multiple peptide resistance factor)	mprF	reviewed
+Q2G140	MEPA_STAA8	Multidrug export protein MepA (Staphylococcal virulence regulator protein A)	mepA	reviewed
+Q2FYJ5	NORB_STAA8	Quinolone resistance protein NorB	norB	reviewed
+Q2G2Q0	GYRA_STAA8	DNA gyrase subunit A (EC 5.6.2.2)	gyrA	reviewed
+Q2G0E0	GRAR_STAA8	Response regulator protein GraR (Glycopeptide resistance-associated protein R)	graR	reviewed
+Q2FZP6	MURE_STAA8	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L-lysine ligase (EC 6.3.2.7) (L-lysine-adding enzyme) (UDP-MurNAc-L-Ala-D-Glu:L-Lys ligase) (UDP-MurNAc-tripeptide synthetase) (UDP-N-acetylmuramyl-tripeptide synthetase)	murE	reviewed
+Q2G1U6	SPX_STAA8	Global transcriptional regulator Spx	spx	reviewed
+A0A2X3YER5	A0A2X3YER5_STAA8	Metallothiol transferase FosB (EC 2.5.1.-) (Fosfomycin resistance protein)	fosB2	unreviewed
+A0A2X3YXG1	A0A2X3YXG1_STAA8	Phosphatidylglycerol lysyltransferase (EC 2.3.2.3) (Lysylphosphatidylglycerol synthase)	mprF	unreviewed
+A0A7Z7P6A6	A0A7Z7P6A6_STAA8	Antibiotic resistance-related transmembrane efflux protein	norB_1	unreviewed
+A0A2X3YVC3	A0A2X3YVC3_STAA8	Probable dual-specificity RNA methyltransferase RlmN (EC 2.1.1.192) (23S rRNA (adenine(2503)-C(2))-methyltransferase) (23S rRNA m2A2503 methyltransferase) (Ribosomal RNA large subunit methyltransferase N) (tRNA (adenine(37)-C(2))-methyltransferase) (tRNA m2A37 methyltransferase)	rlmN	unreviewed
+Q2G2X6	Q2G2X6_STAA8	Penicillin-binding protein 4, putative		unreviewed
+A0A2X3YHP6	A0A2X3YHP6_STAA8	Antibiotic resistance protein		unreviewed
+A0A2X3Y9T5	A0A2X3Y9T5_STAA8	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	unreviewed
+A0A141HMH5	A0A141HMH5_STAA8	MecI		unreviewed
+A0A141HMF4	A0A141HMF4_STAA8	Mobilization protein (Plasmid recombinase)		unreviewed

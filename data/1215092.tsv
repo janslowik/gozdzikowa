@@ -1,0 +1,4 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+U2Z2S8	U2Z2S8_PSEA4	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	unreviewed
+U3AV18	U3AV18_PSEA4	Beta-lactamase (EC 3.5.2.6)	ampC	unreviewed
+U2YYZ6	U2YYZ6_PSEA4	DD-transpeptidase (EC 2.4.1.129) (EC 3.4.16.4) (Penicillin-binding protein 1A) (Penicillin-insensitive transglycosylase) (Penicillin-sensitive transpeptidase) (Peptidoglycan TGase)	mrcA	unreviewed
