@@ -1,0 +1,13 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+Q06893	VANB_ENTFA	Vancomycin B-type resistance protein VanB (EC 6.1.2.1) (D-alanine--D-lactate ligase) (VanB ligase)	vanB	reviewed
+Q47744	VANR_ENTFA	Regulatory protein VanRB	vanRB	reviewed
+Q47745	VANS_ENTFA	Sensor protein VanSB (EC 2.7.13.3) (Vancomycin B-type resistance protein VanSB) (Vancomycin histidine protein kinase)	vanSB	reviewed
+Q47746	VANY_ENTFA	D-alanyl-D-alanine carboxypeptidase (D,D-carboxypeptidase) (D-Ala-D-Ala carboxypeptidase) (EC 3.4.17.-)	vanYB	reviewed
+Q831R1	UPPP1_ENTFA	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	reviewed
+Q47748	VANH_ENTFA	D-specific alpha-keto acid dehydrogenase (EC 1.1.1.-) (Vancomycin B-type resistance protein VanHB)	vanHB	reviewed
+Q47749	VANX_ENTFA	D-alanyl-D-alanine dipeptidase (D-Ala-D-Ala dipeptidase) (EC 3.4.13.22) (Vancomycin B-type resistance protein VanXB)	vanXB	reviewed
+P0A0C2	AACA_ENTFA	Bifunctional AAC/APH [Includes: 6'-aminoglycoside N-acetyltransferase (EC 2.3.1.-) (AAC(6')); Aminoglycoside 2''-phosphotransferase (EC 2.7.1.190) (2''-aminoglycoside phosphotransferase) (APH(2''))]	aacA-aphD	reviewed
+P20173	ERMB_ENTFA	rRNA adenine N-6-methyltransferase (EC 2.1.1.184) (Macrolide-lincosamide-streptogramin B resistance protein)	ermB	reviewed
+Q837P6	Q837P6_ENTFA	Transcriptional regulator, TetR family		unreviewed
+Q835J3	Q835J3_ENTFA	Phosphatidylglycerol lysyltransferase (EC 2.3.2.3) (Lysylphosphatidylglycerol synthase)	mprF	unreviewed
+Q839W9	Q839W9_ENTFA	Phosphatidylglycerol lysyltransferase (EC 2.3.2.3) (Lysylphosphatidylglycerol synthase)	mprF	unreviewed

@@ -19,3 +19,7 @@ Pseudomonas alcaligenes NBRC 14159
     - results: 3
  - taxon id 43263 (Pseudomonas alcaligenes)
     - results: 32
+
+Enterococcus faecalis (strain ATCC 700802 / V583) 
+   - taxon id 226185
+      - results: 12
