@@ -1,0 +1,16 @@
+MCODE App Results
+Date: 1 lut 2022, 21:33:22
+
+Parameters:
+   Network Scoring:
+      Include Loops: false  Degree Cutoff: 2
+   Cluster Finding:
+      Node Score Cutoff: 0.2  Haircut: true  Fluff: false  K-Core: 2  Max. Depth from Seed: 100
+
+Cluster	Score (Density*#Nodes)	Nodes	Edges	Node IDs
+1	30,765	35	523	rpsE, ettA, rpmF, rpmI, rpsP, lpxD, rplS, yheS, rplF, uup, rpsU, ybiT, rpsL, rplD, rpsT, rplT, rpsB, rpsD, gyrB, rpsA, gyrA, tufA, parE, tufB, parC, rpoC, rpoB, tsf, rsmA, rpsQ, ileS, rplV, thrS, rplY, rlmN
+2	15,222	19	137	acrZ, mdfA, mdtE, macA, emrB, emrA, mdtK, mdtH, fabI, acrB, mdtP, arnA, mdtG, macB, mdtF, marR, mdtM, acrA, tolC
+3	4	5	8	hipA, relE, hipB, relB, eptA
+4	3,6	6	9	ampC, marA, marB, mdtL, acrD, mdtN
+5	3,333	4	5	arnB, pmrD, lpxB, arnT
+6	3	3	3	ihfB, thyA, ihfA

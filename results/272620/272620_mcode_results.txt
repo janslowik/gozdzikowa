@@ -1,0 +1,15 @@
+MCODE App Results
+Date: 1 lut 2022, 21:40:24
+
+Parameters:
+   Network Scoring:
+      Include Loops: false  Degree Cutoff: 2
+   Cluster Finding:
+      Node Score Cutoff: 0.2  Haircut: true  Fluff: false  K-Core: 2  Max. Depth from Seed: 100
+
+Cluster	Score (Density*#Nodes)	Nodes	Edges	Node IDs
+1	8,444	10	38	yfbE, yfbG, wbaP, yfbF, arnT, ugd, yfbH, arnE, arnF, wecC
+2	4	7	12	mrcA, uppS, mrcB, tolC, uppP, ldcA, macB
+3	3	3	3	yraM, dacB, pbpG
+4	3	3	3	ybgF, murG, ybjG
+5	3	3	3	marA, marR, marB
