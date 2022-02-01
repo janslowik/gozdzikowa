@@ -1,0 +1,20 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+A6TE36	UPPP_KLEP7	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	reviewed
+A6TF99	ARNC_KLEP7	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53) (Undecaprenyl-phosphate Ara4FN transferase) (Ara4FN transferase)	arnC	reviewed
+A6TFA0	ARNB_KLEP7	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87) (UDP-(beta-L-threo-pentapyranosyl-4''-ulose diphosphate) aminotransferase) (UDP-Ara4O aminotransferase) (UDP-4-amino-4-deoxy-L-arabinose aminotransferase)	arnB	reviewed
+A6TF97	ARND_KLEP7	Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)	arnD	reviewed
+A6TF98	ARNA_KLEP7	Bifunctional polymyxin resistance protein ArnA [Includes: UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13) (ArnAFT) (UDP-L-Ara4N formyltransferase); UDP-glucuronic acid oxidase, UDP-4-keto-hexauronic acid decarboxylating (EC 1.1.1.305) (ArnADH) (UDP-GlcUA decarboxylase) (UDP-glucuronic acid dehydrogenase)]	arnA	reviewed
+A6T6J1	A6T6J1_KLEP7	Multidrug efflux pump accessory protein AcrZ (AcrAB-TolC multidrug efflux pump accessory protein AcrZ) (Acridine resistance protein Z)	ybhT	unreviewed
+A6TIY6	A6TIY6_KLEP7	Aminoglycoside 3'-phosphotransferase (EC 2.7.1.95)	str	unreviewed
+A6TIK7	A6TIK7_KLEP7	Beta-lactamase (EC 3.5.2.6)		unreviewed
+A6T8W7	A6T8W7_KLEP7	Beta-lactamase (EC 3.5.2.6)		unreviewed
+A6T8Y4	A6T8Y4_KLEP7	Multiple antibiotic resistance transcriptional activator of defense systems	marA	unreviewed
+A6TF20	A6TF20_KLEP7	DD-transpeptidase (EC 2.4.1.129) (EC 3.4.16.4) (Penicillin-binding protein 1A) (Penicillin-insensitive transglycosylase) (Penicillin-sensitive transpeptidase) (Peptidoglycan TGase)	mrcA	unreviewed
+A6TJ61	A6TJ61_KLEP7	Tetracycline resistance, repressor protein, tetR family	tetR	unreviewed
+A6T6X7	A6T6X7_KLEP7	Macrolide transport protein	macB	unreviewed
+A6T8Y3	A6T8Y3_KLEP7	Multiple antibiotic resistance protein	marB	unreviewed
+A6TJ01	A6TJ01_KLEP7	Aminoglycoside 3'-phosphotransferase (EC 2.7.1.95)	aphA	unreviewed
+A6TIL6	A6TIL6_KLEP7	Aminoglycoside (3'') (9) adenylyltransferase (EC 2.7.7.47)	aadA	unreviewed
+A6TJ41	A6TJ41_KLEP7	Chloramphenicol acetyltransferase (EC 2.3.1.28)	cmlA2	unreviewed
+A6T8Y5	A6T8Y5_KLEP7	Multiple antibiotic resistance protein repressor of mar operon	marR	unreviewed
+A6TIL8	A6TIL8_KLEP7	Beta-lactamase (EC 3.5.2.6)	bla	unreviewed

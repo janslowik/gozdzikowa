@@ -1,0 +1,107 @@
+Entry	Entry name	Protein names	Gene names  (primary )	Status
+P33941	YOJI_ECOLI	ABC transporter ATP-binding/permease protein YojI	yojI	reviewed
+P0A8V2	RPOB_ECOLI	DNA-directed RNA polymerase subunit beta (RNAP subunit beta) (EC 2.7.7.6) (RNA polymerase subunit beta) (Transcriptase subunit beta)	rpoB	reviewed
+P0AG55	RL6_ECOLI	50S ribosomal protein L6 (Large ribosomal subunit protein uL6)	rplF	reviewed
+B1XG62	UPPP_ECODH	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	reviewed
+P0A8T7	RPOC_ECOLI	DNA-directed RNA polymerase subunit beta' (RNAP subunit beta') (EC 2.7.7.6) (RNA polymerase subunit beta') (Transcriptase subunit beta')	rpoC	reviewed
+P0A9U3	YBIT_ECOLI	Probable ATP-binding protein YbiT	ybiT	reviewed
+P33229	RALR_ECOLI	Endodeoxyribonuclease toxin RalR (DNase RalR) (EC 3.1.-.-) (Restriction alleviation and modification enhancement protein) (Toxin RalR)	ralR	reviewed
+P00956	SYI_ECOLI	Isoleucine--tRNA ligase (EC 6.1.1.5) (Isoleucyl-tRNA synthetase) (IleRS)	ileS	reviewed
+P25396	TEHA_ECOLI	Tellurite resistance protein TehA	tehA	reviewed
+P02919	PBPB_ECOLI	Penicillin-binding protein 1B (PBP-1b) (PBP1b) (Murein polymerase) [Includes: Penicillin-insensitive transglycosylase (EC 2.4.1.129) (Peptidoglycan TGase) (Peptidoglycan glycosyltransferase); Penicillin-sensitive transpeptidase (EC 3.4.16.4) (DD-transpeptidase)]	mrcB	reviewed
+P36979	RLMN_ECOLI	Dual-specificity RNA methyltransferase RlmN (EC 2.1.1.192) (23S rRNA (adenine(2503)-C(2))-methyltransferase) (23S rRNA m2A2503 methyltransferase) (Ribosomal RNA large subunit methyltransferase N) (tRNA (adenine(37)-C(2))-methyltransferase) (tRNA m2A37 methyltransferase)	rlmN	reviewed
+P0AG63	RS17_ECOLI	30S ribosomal protein S17 (Small ribosomal subunit protein uS17)	rpsQ	reviewed
+P43672	UUP_ECOLI	ATP-binding protein Uup (EC 3.6.1.-)	uup	reviewed
+P60932	UPPP_ECOLI	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	reviewed
+P60723	RL4_ECOLI	50S ribosomal protein L4 (Large ribosomal subunit protein uL4)	rplD	reviewed
+P61175	RL22_ECOLI	50S ribosomal protein L22 (Large ribosomal subunit protein uL22)	rplV	reviewed
+P0A7W1	RS5_ECOLI	30S ribosomal protein S5 (Small ribosomal subunit protein uS5)	rpsE	reviewed
+P06627	TRAY1_ECOLI	Relaxosome protein TraY	traY	reviewed
+P75806	YBJG_ECOLI	Putative undecaprenyl-diphosphatase YbjG (EC 3.6.1.27) (Undecaprenyl pyrophosphate phosphatase)	ybjG	reviewed
+P31126	YDEE_ECOLI	Uncharacterized MFS-type transporter YdeE	ydeE	reviewed
+P31130	YDEI_ECOLI	Uncharacterized protein YdeI	ydeI	reviewed
+P31131	YDEJ_ECOLI	Protein YdeJ	ydeJ	reviewed
+P63389	YHES_ECOLI	Probable ATP-binding protein YheS	yheS	reviewed
+P10026	TRAM1_ECOLI	Relaxosome protein TraM	traM	reviewed
+C4ZQX4	UPPP_ECOBW	Undecaprenyl-diphosphatase (EC 3.6.1.27) (Bacitracin resistance protein) (Undecaprenyl pyrophosphate phosphatase)	uppP	reviewed
+B1X8W8	ARNA_ECODH	Bifunctional polymyxin resistance protein ArnA [Includes: UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13) (ArnAFT) (UDP-L-Ara4N formyltransferase); UDP-glucuronic acid oxidase, UDP-4-keto-hexauronic acid decarboxylating (EC 1.1.1.305) (ArnADH) (UDP-GlcUA decarboxylase) (UDP-glucuronic acid dehydrogenase)]	arnA	reviewed
+B1X8W6	ARNB_ECODH	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87) (UDP-(beta-L-threo-pentapyranosyl-4''-ulose diphosphate) aminotransferase) (UDP-Ara4O aminotransferase) (UDP-4-amino-4-deoxy-L-arabinose aminotransferase)	arnB	reviewed
+P02918	PBPA_ECOLI	Penicillin-binding protein 1A (PBP-1a) (PBP1a) [Includes: Penicillin-insensitive transglycosylase (EC 2.4.1.129) (Peptidoglycan TGase); Penicillin-sensitive transpeptidase (EC 3.4.16.4) (DD-transpeptidase)]	mrcA	reviewed
+C4ZU95	ARNB_ECOBW	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87) (UDP-(beta-L-threo-pentapyranosyl-4''-ulose diphosphate) aminotransferase) (UDP-Ara4O aminotransferase) (UDP-4-amino-4-deoxy-L-arabinose aminotransferase)	arnB	reviewed
+P0AAW9	ACRZ_ECOLI	Multidrug efflux pump accessory protein AcrZ (AcrAB-TolC multidrug efflux pump accessory protein AcrZ) (Acridine resistance protein Z)	acrZ	reviewed
+P76472	ARND_ECOLI	Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)	arnD	reviewed
+P46891	COF_ECOLI	HMP-PP phosphatase (EC 3.6.1.-)	cof	reviewed
+P0CE47	EFTU1_ECOLI	Elongation factor Tu 1 (EF-Tu 1) (Bacteriophage Q beta RNA-directed RNA polymerase subunit III) (P-43)	tufA	reviewed
+P0AE06	ACRA_ECOLI	Multidrug efflux pump subunit AcrA (AcrAB-TolC multidrug efflux pump subunit AcrA) (Acridine resistance protein A)	acrA	reviewed
+B1X8W7	ARNC_ECODH	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53) (Undecaprenyl-phosphate Ara4FN transferase) (Ara4FN transferase)	arnC	reviewed
+C4ZU97	ARNA_ECOBW	Bifunctional polymyxin resistance protein ArnA [Includes: UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13) (ArnAFT) (UDP-L-Ara4N formyltransferase); UDP-glucuronic acid oxidase, UDP-4-keto-hexauronic acid decarboxylating (EC 1.1.1.305) (ArnADH) (UDP-GlcUA decarboxylase) (UDP-glucuronic acid dehydrogenase)]	arnA	reviewed
+P28246	BCR_ECOLI	Bicyclomycin resistance protein (Sulfonamide resistance protein)	bcr	reviewed
+P27303	EMRA_ECOLI	Multidrug export protein EmrA	emrA	reviewed
+P77398	ARNA_ECOLI	Bifunctional polymyxin resistance protein ArnA (Polymyxin resistance protein PmrI) [Includes: UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13) (ArnAFT) (UDP-L-Ara4N formyltransferase); UDP-glucuronic acid oxidase, UDP-4-keto-hexauronic acid decarboxylating (EC 1.1.1.305) (ArnADH) (UDP-GlcUA decarboxylase) (UDP-glucuronic acid dehydrogenase)]	arnA	reviewed
+P30843	BASR_ECOLI	Transcriptional regulatory protein BasR	basR	reviewed
+P0ABQ4	DYR_ECOLI	Dihydrofolate reductase (EC 1.5.1.3)	folA	reviewed
+P00811	AMPC_ECOLI	Beta-lactamase (EC 3.5.2.6) (Cephalosporinase)	ampC	reviewed
+P77690	ARNB_ECOLI	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87) (Polymyxin resistance protein PmrH) (UDP-(beta-L-threo-pentapyranosyl-4''-ulose diphosphate) aminotransferase) (UDP-Ara4O aminotransferase) (UDP-4-amino-4-deoxy-L-arabinose aminotransferase)	arnB	reviewed
+P77757	ARNC_ECOLI	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53) (Polymyxin resistance protein PmrF) (Undecaprenyl-phosphate Ara4FN transferase) (Ara4FN transferase)	arnC	reviewed
+P0AEJ0	EMRB_ECOLI	Multidrug export protein EmrB	emrB	reviewed
+P0CE48	EFTU2_ECOLI	Elongation factor Tu 2 (EF-Tu 2) (Bacteriophage Q beta RNA-directed RNA polymerase subunit III) (P-43)	tufB	reviewed
+P31129	DGCZ_ECOLI	Diguanylate cyclase DgcZ (DGC) (EC 2.7.7.65) (Zinc-sensory diguanylate cyclase)	dgcZ	reviewed
+P23874	HIPA_ECOLI	Serine/threonine-protein kinase toxin HipA (Ser/Thr-protein kinase HipA) (EC 2.7.11.1) (Toxin HipA)	hipA	reviewed
+P24228	DACB_ECOLI	D-alanyl-D-alanine carboxypeptidase DacB (DD-carboxypeptidase) (DD-peptidase) (EC 3.4.16.4) (D-alanyl-D-alanine endopeptidase) (DD-endopeptidase) (EC 3.4.21.-) (Penicillin-binding protein 4) (PBP-4)	dacB	reviewed
+C4ZU96	ARNC_ECOBW	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53) (Undecaprenyl-phosphate Ara4FN transferase) (Ara4FN transferase)	arnC	reviewed
+B1X8W9	ARND_ECODH	Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)	arnD	reviewed
+P0AES6	GYRB_ECOLI	DNA gyrase subunit B (EC 5.6.2.2) (Type IIA topoisomerase subunit GyrB)	gyrB	reviewed
+P37636	MDTE_ECOLI	Multidrug resistance protein MdtE	mdtE	reviewed
+P0AEK4	FABI_ECOLI	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI (ENR) (EC 1.3.1.9) (NADH-dependent enoyl-ACP reductase)	fabI	reviewed
+P0A9W3	ETTA_ECOLI	Energy-dependent translational throttle protein EttA (EC 3.6.1.-) (Translational regulatory factor EttA)	ettA	reviewed
+P75830	MACA_ECOLI	Macrolide export protein MacA	macA	reviewed
+P0ACH5	MARA_ECOLI	Multiple antibiotic resistance protein MarA	marA	reviewed
+P31462	MDTL_ECOLI	Multidrug resistance protein MdtL	mdtL	reviewed
+P30845	EPTA_ECOLI	Phosphoethanolamine transferase EptA (EC 2.7.-.-) (Polymyxin resistance protein PmrC)	eptA	reviewed
+P56976	BLR_ECOLI	Divisome-associated membrane protein Blr (Beta-lactam resistance protein)	blr	reviewed
+P31121	MARB_ECOLI	Multiple antibiotic resistance protein MarB	marB	reviewed
+P27245	MARR_ECOLI	Multiple antibiotic resistance protein MarR	marR	reviewed
+P52067	FSR_ECOLI	Fosmidomycin resistance protein	fsr	reviewed
+P31125	EAMA_ECOLI	Probable amino-acid metabolite efflux pump	eamA	reviewed
+P0AES4	GYRA_ECOLI	DNA gyrase subunit A (EC 5.6.2.2)	gyrA	reviewed
+P31224	ACRB_ECOLI	Multidrug efflux pump subunit AcrB (AcrAB-TolC multidrug efflux pump subunit AcrB) (Acridine resistance protein B)	acrB	reviewed
+P0A6Y1	IHFB_ECOLI	Integration host factor subunit beta (IHF-beta)	ihfB	reviewed
+P0AEY1	MARC_ECOLI	UPF0056 inner membrane protein MarC	marC	reviewed
+P0AEY8	MDFA_ECOLI	Multidrug transporter MdfA (Chloramphenicol resistance pump Cmr)	mdfA	reviewed
+P32715	MDTO_ECOLI	Multidrug resistance protein MdtO	mdtO	reviewed
+P0A6X7	IHFA_ECOLI	Integration host factor subunit alpha (IHF-alpha)	ihfA	reviewed
+P75831	MACB_ECOLI	Macrolide export ATP-binding/permease protein MacB (EC 7.6.2.-)	macB	reviewed
+P33369	MDTQ_ECOLI	Putative multidrug resistance outer membrane protein MdtQ	mdtQ	reviewed
+P39386	MDTM_ECOLI	Multidrug resistance protein MdtM	mdtM	reviewed
+P39411	NCPP_ECOLI	Inosine/xanthosine triphosphatase (ITPase/XTPase) (EC 3.6.1.73) (Non-canonical purine NTP phosphatase) (Non-standard purine NTP phosphatase) (Nucleoside-triphosphate phosphatase) (NTPase)	yjjX	reviewed
+P21645	LPXD_ECOLI	UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase (UDP-3-O-(3-OHC14)-GlcN N-acyltransferase) (EC 2.3.1.191) (Protein FirA) (Rifampicin resistance protein) (UDP-3-O-(3-hydroxytetradecanoyl)glucosamine N-acyltransferase)	lpxD	reviewed
+P32716	MDTN_ECOLI	Multidrug resistance protein MdtN	mdtN	reviewed
+P32714	MDTP_ECOLI	Multidrug resistance outer membrane protein MdtP	mdtP	reviewed
+P37340	MDTK_ECOLI	Multidrug resistance protein MdtK (Multidrug-efflux transporter)	mdtK	reviewed
+P76242	NIMT_ECOLI	2-nitroimidazole transporter	nimT	reviewed
+P20083	PARE_ECOLI	DNA topoisomerase 4 subunit B (EC 5.6.2.2) (Topoisomerase IV subunit B)	parE	reviewed
+P0C077	RELE_ECOLI	mRNA interferase toxin RelE (EC 3.1.-.-) (Endoribonuclease RelE) (Toxin RelE)	relE	reviewed
+P37637	MDTF_ECOLI	Multidrug resistance protein MdtF	mdtF	reviewed
+C4ZRZ3	MDTG_ECOBW	Multidrug resistance protein MdtG	mdtG	reviewed
+B1X9G6	MDTG_ECODH	Multidrug resistance protein MdtG	mdtG	reviewed
+P25744	MDTG_ECOLI	Multidrug resistance protein MdtG	mdtG	reviewed
+C4ZS05	MDTH_ECOBW	Multidrug resistance protein MdtH	mdtH	reviewed
+B1X9H8	MDTH_ECODH	Multidrug resistance protein MdtH	mdtH	reviewed
+P69367	MDTH_ECOLI	Multidrug resistance protein MdtH	mdtH	reviewed
+C4ZYY8	MDTL_ECOBW	Multidrug resistance protein MdtL	mdtL	reviewed
+B1X9T9	MDTL_ECODH	Multidrug resistance protein MdtL	mdtL	reviewed
+P31122	SOTB_ECOLI	Sugar efflux transporter	sotB	reviewed
+P09130	TRAD1_ECOLI	Coupling protein TraD (DNA transport protein TraD)	traD	reviewed
+P02930	TOLC_ECOLI	Outer membrane protein TolC (Multidrug efflux pump subunit TolC) (Outer membrane factor TolC)	tolC	reviewed
+P06992	RSMA_ECOLI	Ribosomal RNA small subunit methyltransferase A (EC 2.1.1.182) (16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase) (16S rRNA dimethyladenosine transferase) (16S rRNA dimethylase) (High level kasugamycin resistance protein KsgA) (Kasugamycin dimethyltransferase) (S-adenosylmethionine-6-N', N'-adenosyl(rRNA) dimethyltransferase)	rsmA	reviewed
+P33230	RCBA_ECOLI	Double-strand break reduction protein	rcbA	reviewed
+P14565	TRAI1_ECOLI	Multifunctional conjugation protein TraI [Includes: DNA relaxase TraI (EC 5.6.2.1) (DNA nickase TraI) (Transesterase TraI); DNA helicase I (EC 3.6.4.12)]	traI	reviewed
+P37590	PMRD_ECOLI	Signal transduction protein PmrD (BasR post-transcriptional activator) (Polymyxin resistance protein PmrD)	pmrD	reviewed
+P0A8M3	SYT_ECOLI	Threonine--tRNA ligase (EC 6.1.1.3) (Threonyl-tRNA synthetase) (ThrRS)	thrS	reviewed
+P25397	TEHB_ECOLI	Tellurite methyltransferase (EC 2.1.1.265) (Chalcogen-detoxifying protein TehB) (Selenite methyltransferase) (Tellurite resistance protein TehB)	tehB	reviewed
+P0A7S3	RS12_ECOLI	30S ribosomal protein S12 (Small ribosomal subunit protein uS12)	rpsL	reviewed
+P0A7V8	RS4_ECOLI	30S ribosomal protein S4 (Small ribosomal subunit protein uS4)	rpsD	reviewed
+A0A4D6FXD9	A0A4D6FXD9_ECOLI	Beta-lactamase (EC 3.5.2.6)	ampR	unreviewed
+A0A4D6FVV9	A0A4D6FVV9_ECOLI	Aminoglycoside 3'-phosphotransferase (EC 2.7.1.95)	kanR	unreviewed
+A0A223DQY7	A0A223DQY7_ECOLI	Aminoglycoside 3'-phosphotransferase (EC 2.7.1.95)	aph-III	unreviewed
+A0A4D6FXC7	A0A4D6FXC7_ECOLI	TetR	tetR	unreviewed
