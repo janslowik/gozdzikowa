@@ -1,0 +1,13 @@
+MCODE App Results
+Date: 1 lut 2022, 01:16:26
+
+Parameters:
+   Network Scoring:
+      Include Loops: false  Degree Cutoff: 2
+   Cluster Finding:
+      Node Score Cutoff: 0.2  Haircut: true  Fluff: false  K-Core: 2  Max. Depth from Seed: 100
+
+Cluster	Score (Density*#Nodes)	Nodes	Edges	Node IDs
+1	12,923	14	84	mraY, rpoB, uppS, uppP, murB, vanB, pbpC, EF_0680, EF_2857, EF_1148, EF_1740, murC, murF, rpoC
+2	4,8	6	12	vanYB, vanSB, vanHB, EF_1261, vanW, vanX
+3	3	3	3	pgsA, dgkA, EF_0796

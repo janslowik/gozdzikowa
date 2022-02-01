@@ -1,0 +1,11 @@
+MCODE App Results
+Date: 1 lut 2022, 00:51:33
+
+Parameters:
+   Network Scoring:
+      Include Loops: false  Degree Cutoff: 2
+   Cluster Finding:
+      Node Score Cutoff: 0.2  Haircut: true  Fluff: false  K-Core: 2  Max. Depth from Seed: 100
+
+Cluster	Score (Density*#Nodes)	Nodes	Edges	Node IDs
+1	19,789	20	188	rplB, gyrB, rpsS, dnaN, rplP, rpoD, rpsH, rpsE, rpoB, rpsM, rpoC, rpsK, rpoA, gyrA, nusA, rpoZ, nusG, infB, rplL, rpsL
